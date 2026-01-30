@@ -13,8 +13,9 @@
     --secondary: 0 0% 96%;
     --secondary-foreground: 0 0% 9%;
     --muted: 0 0% 96%;
-    --muted-foreground: 0 0% 45%;
+    --muted-foreground: 0 0% 35%;
     --border: 0 0% 90%;
+    --ring: 262 83% 58%;
   }
 
   .dark {
@@ -27,14 +28,30 @@
     --secondary: 0 0% 15%;
     --secondary-foreground: 0 0% 98%;
     --muted: 0 0% 15%;
-    --muted-foreground: 0 0% 64%;
+    --muted-foreground: 0 0% 70%;
     --border: 0 0% 18%;
+    --ring: 262 83% 58%;
   }
 }
 
 @layer base {
   body {
     @apply bg-background text-foreground antialiased;
+  }
+
+  /* Global focus styles for accessibility */
+  *:focus-visible {
+    @apply outline-none ring-2 ring-primary ring-offset-2 ring-offset-background;
+  }
+
+  /* Skip to main content link for keyboard navigation */
+  .skip-link {
+    @apply absolute -top-10 left-4 z-[100] rounded bg-primary px-4 py-2 text-primary-foreground transition-all focus:top-4;
+  }
+
+  /* Ensure links are distinguishable */
+  a:not([class]) {
+    @apply text-primary underline-offset-4 hover:underline focus:underline;
   }
 }
 
@@ -44,7 +61,7 @@
   }
 
   .btn {
-    @apply inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3 font-medium transition-all;
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-6 py-3 font-medium transition-all focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background;
   }
 
   .btn-primary {
@@ -64,11 +81,11 @@
   }
 
   .card-hover {
-    @apply card hover:border-primary/50 hover:shadow-lg hover:-translate-y-1 transition-all;
+    @apply card hover:border-primary/50 hover:shadow-lg hover:-translate-y-1 transition-all focus-within:border-primary/50 focus-within:ring-2 focus-within:ring-primary/20;
   }
 
   .input {
-    @apply w-full rounded-lg border border-border bg-background px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary/50;
+    @apply w-full rounded-lg border border-border bg-background px-4 py-3 focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary;
   }
 
   .section {
@@ -77,5 +94,10 @@
 
   .container-custom {
     @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Interactive element focus indicator */
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background;
   }
 }

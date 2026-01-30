@@ -55,9 +55,13 @@ export default async function LocaleLayout({
       <body className={`${inter.variable} font-sans`}>
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           <NextIntlClientProvider messages={messages}>
+            {/* Skip to main content link for keyboard navigation */}
+            <a href="#main-content" className="skip-link">
+              {locale === 'th' ? 'ข้ามไปยังเนื้อหาหลัก' : 'Skip to main content'}
+            </a>
             <div className="flex min-h-screen flex-col">
               <Header />
-              <main className="flex-1 pb-16 md:pb-0">{children}</main>
+              <main id="main-content" className="flex-1 pb-16 md:pb-0" tabIndex={-1}>{children}</main>
               <Footer />
             </div>
             <MobileNav />

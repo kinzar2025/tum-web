@@ -26,11 +26,23 @@ export function Footer() {
             </Link>
             <p className="mt-4 text-sm text-muted-foreground">{t('description')}</p>
             <div className="mt-4 flex gap-3">
-              <a href="https://www.facebook.com/profile.php?id=61587002713347" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary hover:bg-primary hover:text-white">
-                <Facebook className="h-5 w-5" />
+              <a
+                href="https://www.facebook.com/profile.php?id=61587002713347"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary hover:bg-primary hover:text-white focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background transition-colors"
+                aria-label="Facebook"
+              >
+                <Facebook className="h-5 w-5" aria-hidden="true" />
               </a>
-              <a href="https://lin.ee/EE6XyPL" target="_blank" rel="noopener noreferrer" className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary hover:bg-[#00B900] hover:text-white">
-                <MessageCircle className="h-5 w-5" />
+              <a
+                href="https://lin.ee/EE6XyPL"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex h-10 w-10 items-center justify-center rounded-lg bg-secondary hover:bg-[#00B900] hover:text-white focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background transition-colors"
+                aria-label="LINE"
+              >
+                <MessageCircle className="h-5 w-5" aria-hidden="true" />
               </a>
             </div>
           </div>

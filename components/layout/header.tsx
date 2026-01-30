@@ -78,20 +78,33 @@ export function Header() {
 
           {/* Actions */}
           <div className="flex items-center gap-2">
-            <button onClick={toggleLocale} className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary">
-              <Globe className="h-5 w-5" />
+            <button
+              onClick={toggleLocale}
+              className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background"
+              aria-label={locale === 'th' ? 'Switch to English' : 'เปลี่ยนเป็นภาษาไทย'}
+            >
+              <Globe className="h-5 w-5" aria-hidden="true" />
               <span className="ml-1 text-xs font-medium">{locale === 'th' ? 'EN' : 'TH'}</span>
             </button>
             {mounted && (
-              <button onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')} className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary">
-                {theme === 'dark' ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
+              <button
+                onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
+                className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background"
+                aria-label={theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}
+              >
+                {theme === 'dark' ? <Sun className="h-5 w-5" aria-hidden="true" /> : <Moon className="h-5 w-5" aria-hidden="true" />}
               </button>
             )}
-            <Link href={`/${locale}/contact`} className="hidden btn-primary text-sm md:inline-flex">
+            <Link href={`/${locale}/contact`} className="hidden btn-primary text-sm md:inline-flex focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background">
               {t('getQuote')}
             </Link>
-            <button onClick={() => setIsOpen(!isOpen)} className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary md:hidden">
-              {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+            <button
+              onClick={() => setIsOpen(!isOpen)}
+              className="flex h-10 w-10 items-center justify-center rounded-lg hover:bg-secondary md:hidden focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background"
+              aria-label={isOpen ? 'Close menu' : 'Open menu'}
+              aria-expanded={isOpen}
+            >
+              {isOpen ? <X className="h-6 w-6" aria-hidden="true" /> : <Menu className="h-6 w-6" aria-hidden="true" />}
             </button>
           </div>
         </div>

@@ -38,9 +38,9 @@ export function MobileNav() {
   const locale = useLocale();
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 md:hidden">
+    <nav className="fixed bottom-0 left-0 right-0 z-50 md:hidden" aria-label={locale === 'th' ? 'เมนูมือถือ' : 'Mobile navigation'}>
       {/* Glassmorphism background */}
-      <div className="absolute inset-0 bg-background/80 backdrop-blur-xl border-t border-border" />
+      <div className="absolute inset-0 bg-background/80 backdrop-blur-xl border-t border-border" aria-hidden="true" />
 
       {/* Nav items */}
       <div className="relative flex items-center justify-around px-2 py-2 safe-area-inset-bottom">
@@ -55,13 +55,13 @@ export function MobileNav() {
                 href={item.href}
                 target={item.key === 'line' ? '_blank' : undefined}
                 rel={item.key === 'line' ? 'noopener noreferrer' : undefined}
-                className={`flex flex-col items-center justify-center gap-1 min-w-[70px] py-2 rounded-xl transition-all ${
+                className={`flex flex-col items-center justify-center gap-1 min-w-[70px] py-2 rounded-xl transition-all focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background ${
                   isHighlight
                     ? 'bg-[#00B900] text-white shadow-lg shadow-[#00B900]/30'
                     : 'text-muted-foreground hover:text-foreground'
                 }`}
               >
-                <Icon className={`h-5 w-5 ${isHighlight ? '' : ''}`} />
+                <Icon className="h-5 w-5" aria-hidden="true" />
                 <span className="text-[10px] font-medium">
                   {item.label[locale as 'th' | 'en']}
                 </span>
@@ -73,9 +73,9 @@ export function MobileNav() {
             <Link
               key={item.key}
               href={`/${locale}${item.href}`}
-              className="flex flex-col items-center justify-center gap-1 min-w-[70px] py-2 rounded-xl text-muted-foreground hover:text-foreground transition-colors"
+              className="flex flex-col items-center justify-center gap-1 min-w-[70px] py-2 rounded-xl text-muted-foreground hover:text-foreground transition-colors focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 focus:ring-offset-background"
             >
-              <Icon className="h-5 w-5" />
+              <Icon className="h-5 w-5" aria-hidden="true" />
               <span className="text-[10px] font-medium">
                 {item.label[locale as 'th' | 'en']}
               </span>

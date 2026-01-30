@@ -45,13 +45,14 @@ export function HeroSection() {
               href="https://lin.ee/EE6XyPL"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#00B900] px-8 py-4 font-medium text-white hover:bg-[#00A000] transition-colors w-full sm:w-auto shadow-lg shadow-[#00B900]/30"
+              className="inline-flex items-center justify-center gap-2 rounded-lg bg-[#00B900] px-8 py-4 font-medium text-white hover:bg-[#00A000] transition-colors w-full sm:w-auto shadow-lg shadow-[#00B900]/30 focus:outline-none focus:ring-2 focus:ring-[#00B900] focus:ring-offset-2 focus:ring-offset-background"
+              aria-label={locale === 'th' ? 'ปรึกษาฟรีทาง LINE' : 'Free consultation via LINE'}
             >
-              <MessageCircle className="h-5 w-5" />
+              <MessageCircle className="h-5 w-5" aria-hidden="true" />
               {t('cta.primary')}
             </a>
             <Link href={`/${locale}/portfolio`} className="btn-secondary w-full sm:w-auto gap-2">
-              <Play className="h-4 w-4" />
+              <Play className="h-4 w-4" aria-hidden="true" />
               {t('cta.secondary')}
             </Link>
           </motion.div>

@@ -1,0 +1,1221 @@
+{
+  "nav": {
+    "home": "หน้าแรก",
+    "services": "บริการ",
+    "portfolio": "ผลงาน",
+    "blog": "บทความ",
+    "about": "เกี่ยวกับเรา",
+    "contact": "ติดต่อ",
+    "cta": "ปรึกษาฟรี",
+    "getQuote": "ขอใบเสนอราคา"
+  },
+  "hero": {
+    "badge": "Digital Agency ครบวงจร",
+    "title": "ทำเว็บ ทำแอพ",
+    "titleHighlight": "ครบจบในที่เดียว",
+    "subtitle": "ดูแลธุรกิจคุณตั้งแต่เริ่มต้นจนประสบความสำเร็จ",
+    "description": "บริการออกแบบและพัฒนาเว็บไซต์ แอพพลิเคชัน AI Chatbot พร้อมยิงโฆษณาและทำ SEO ดูแลธุรกิจคุณตั้งแต่เริ่มต้นจนประสบความสำเร็จ",
+    "cta": {
+      "primary": "ปรึกษาฟรี LINE",
+      "secondary": "ดูผลงาน"
+    }
+  },
+  "portfolio": {
+    "title": "ผลงานของเรา",
+    "subtitle": "ตัวอย่างผลงานที่เราภูมิใจนำเสนอ",
+    "viewProject": "ดูเว็บไซต์",
+    "viewAll": "ดูผลงานทั้งหมด",
+    "meta": {
+      "title": "ผลงาน - ตัวอย่างงาน | TUM-WEB",
+      "description": "ตัวอย่างผลงานเว็บไซต์ Web Application Mobile App และ AI Solutions ที่เราพัฒนาให้ลูกค้า",
+      "keywords": "ผลงาน, portfolio, ตัวอย่างเว็บไซต์, case studies"
+    },
+    "hero": {
+      "badge": "ผลงานของเรา",
+      "title": {
+        "line1": "ผลงาน",
+        "line2": "ที่เราภูมิใจ"
+      },
+      "subtitle": "รวมผลงานเว็บไซต์และแอพพลิเคชันที่เราออกแบบและพัฒนาให้ลูกค้า"
+    },
+    "categories": {
+      "all": "ทั้งหมด",
+      "website": "เว็บไซต์",
+      "webapp": "Web App",
+      "app": "Mobile App",
+      "ai": "AI"
+    },
+    "cta": {
+      "title": "มีโปรเจกต์ในใจ?",
+      "subtitle": "ให้เราช่วยทำให้ความฝันเป็นจริง ปรึกษาฟรี ไม่มีข้อผูกมัด",
+      "button": "เริ่มโปรเจกต์ของคุณ"
+    }
+  },
+  "whyUs": {
+    "title": "ทำไมต้องเลือกเรา",
+    "subtitle": "เหตุผลที่ลูกค้าไว้วางใจให้เราดูแลธุรกิจ",
+    "items": {
+      "experience": {
+        "title": "ประสบการณ์ 5+ ปี",
+        "description": "ทีมงานมีประสบการณ์พัฒนาเว็บไซต์และแอพมากกว่า 5 ปี"
+      },
+      "support": {
+        "title": "ซัพพอร์ตตลอด",
+        "description": "ดูแลหลังการขาย ตอบคำถาม แก้ไขปัญหาตลอด 24 ชั่วโมง"
+      },
+      "quality": {
+        "title": "งานคุณภาพ",
+        "description": "ใส่ใจทุกรายละเอียด ส่งมอบงานคุณภาพทุกครั้ง"
+      },
+      "price": {
+        "title": "ราคาเป็นมิตร",
+        "description": "ราคาเหมาะสมกับคุณภาพ มีแพ็คเกจให้เลือกหลากหลาย"
+      }
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "เกี่ยวกับเรา | TUM-WEB",
+      "description": "TUM-WEB บริการรับทำเว็บไซต์ แอพพลิเคชัน AI Solutions ครบวงจร ดูแลธุรกิจคุณตั้งแต่เริ่มต้นจนประสบความสำเร็จ",
+      "keywords": "เกี่ยวกับ tum-web, ทีมพัฒนา, เรื่องราวของเรา"
+    },
+    "hero": {
+      "badge": "เกี่ยวกับเรา",
+      "title": {
+        "line1": "ทีมงาน",
+        "line2": "TUM-WEB"
+      },
+      "subtitle": "เราหลงใหลในการสร้างสรรค์ผลงานดิจิทัลที่ช่วยให้ธุรกิจเติบโตและประสบความสำเร็จ"
+    },
+    "story": {
+      "title": "เรื่องราวของเรา",
+      "content": "TUM-WEB เริ่มต้นจากความหลงใหลในเทคโนโลยีและความต้องการช่วยเหลือธุรกิจไทยให้เติบโตในยุคดิจิทัล ด้วยประสบการณ์มากกว่า 5 ปี เราได้ช่วยลูกค้าหลายรายเปลี่ยนไอเดียให้เป็นความจริงผ่านเว็บไซต์และแอพพลิเคชันที่สวยงามและใช้งานได้จริง เราเชื่อในการทำงานที่มีคุณภาพ การสื่อสารที่โปร่งใส และการเป็นพันธมิตรระยะยาวกับลูกค้า"
+    },
+    "mission": {
+      "title": "พันธกิจ",
+      "content": "ช่วยธุรกิจไทยเติบโตในยุคดิจิทัล ด้วยบริการพัฒนาเว็บไซต์ แอพพลิเคชัน และ AI Solutions ที่มีคุณภาพ ราคาเป็นมิตร ทำให้การพัฒนาดิจิทัลระดับมืออาชีพเข้าถึงได้"
+    },
+    "vision": {
+      "title": "วิสัยทัศน์",
+      "content": "เป็น Digital Partner ที่ธุรกิจไทยไว้วางใจ ในการส่งมอบโซลูชันที่สร้างสรรค์ บริการที่เป็นเลิศ และผลลัพธ์ที่ขับเคลื่อนการเติบโตของธุรกิจอย่างแท้จริง"
+    },
+    "stats": {
+      "title": "ความสำเร็จของเรา",
+      "subtitle": "ตัวเลขที่สะท้อนความทุ่มเทและความสำเร็จ",
+      "items": {
+        "projects": "โปรเจกต์สำเร็จ",
+        "experience": "ปีประสบการณ์",
+        "satisfaction": "ความพึงพอใจ",
+        "support": "ซัพพอร์ตตลอด"
+      }
+    },
+    "team": {
+      "title": "ทีมของเรา",
+      "subtitle": "ทีมงานมืออาชีพที่พร้อมดูแลธุรกิจของคุณ",
+      "founder": {
+        "name": "ทีม TUM-WEB",
+        "role": "ผู้ก่อตั้ง & Lead Developer",
+        "bio": "ทีมนักพัฒนาและนักออกแบบที่หลงใหลในการสร้างประสบการณ์ดิจิทัลที่ยอดเยี่ยมให้กับลูกค้า"
+      }
+    },
+    "cta": {
+      "title": "พร้อมทำงานด้วยกัน?",
+      "subtitle": "มาพูดคุยเกี่ยวกับโปรเจกต์ของคุณและดูว่าเราช่วยอะไรได้บ้าง",
+      "button": "ติดต่อเราทาง LINE"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "ติดต่อเรา | TUM-WEB",
+      "description": "ติดต่อ TUM-WEB ปรึกษาฟรี รับทำเว็บไซต์ แอพพลิเคชัน AI Solutions",
+      "keywords": "ติดต่อ, ปรึกษาฟรี, ใบเสนอราคา"
+    },
+    "hero": {
+      "badge": "ติดต่อเรา",
+      "title": {
+        "line1": "พูดคุยกับเรา",
+        "line2": "เกี่ยวกับโปรเจกต์ของคุณ"
+      },
+      "subtitle": "เราพร้อมช่วยเหลือ ติดต่อได้ทุกช่องทางที่สะดวก"
+    },
+    "info": {
+      "title": "ช่องทางติดต่อ",
+      "line": {
+        "title": "LINE",
+        "value": "@tumweb"
+      },
+      "email": {
+        "title": "อีเมล",
+        "value": "contact@tum-web.com"
+      },
+      "phone": {
+        "title": "โทรศัพท์",
+        "value": "081-234-5678"
+      },
+      "facebook": {
+        "title": "Facebook",
+        "value": "TUM-WEB"
+      }
+    },
+    "hours": {
+      "title": "เวลาทำการ",
+      "weekdays": "จันทร์ - ศุกร์",
+      "weekend": "เสาร์ - อาทิตย์",
+      "note": "* ซัพพอร์ตออนไลน์นอกเวลาทำการ"
+    },
+    "location": {
+      "title": "ที่ตั้ง",
+      "address": "กรุงเทพมหานคร ประเทศไทย",
+      "note": "* ทำงาน Remote ได้ ไม่ต้องเดินทาง"
+    },
+    "cta": {
+      "title": "ช่องทางที่เร็วที่สุดในการติดต่อเรา",
+      "subtitle": "แอดไลน์เพื่อรับการตอบกลับที่รวดเร็วและปรึกษาฟรี",
+      "button": "แชทผ่าน LINE"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "บริการของเรา | TUM-WEB",
+      "description": "บริการรับทำเว็บไซต์ Web Application Mobile App AI Chatbot ยิงโฆษณา SEO และ Social Media ครบวงจร",
+      "keywords": "ทำเว็บไซต์, Web Application, Mobile App, AI Chatbot, ยิงโฆษณา, SEO, Social Media"
+    },
+    "title": "บริการของเรา",
+    "subtitle": "บริการด้านดิจิทัลครบวงจร ตั้งแต่สร้างเว็บไซต์ แอพ AI จนถึงการตลาดออนไลน์",
+    "badge": "บริการครบวงจร",
+    "hero": {
+      "title": {
+        "line1": "บริการของเรา",
+        "line2": "ครบวงจร"
+      },
+      "subtitle": "บริการด้านดิจิทัลครบวงจร ตั้งแต่สร้างเว็บไซต์ แอพ AI จนถึงการตลาดออนไลน์"
+    },
+    "learnMore": "ดูรายละเอียด",
+    "viewAll": "ดูบริการทั้งหมด",
+    "items": {
+      "website": {
+        "title": "ทำเว็บไซต์",
+        "description": "เว็บไซต์ธุรกิจ E-commerce Landing Page ดีไซน์สวย รองรับมือถือ SEO Ready",
+        "features": {
+          "1": "ออกแบบดีไซน์ทันสมัย",
+          "2": "รองรับทุกอุปกรณ์",
+          "3": "SEO Ready"
+        }
+      },
+      "webapp": {
+        "title": "Web Application",
+        "description": "ระบบจัดการหลังบ้าน Dashboard CRM ERP ระบบสั่งซื้อ ระบบจองคิว",
+        "features": {
+          "1": "ระบบฐานข้อมูล",
+          "2": "ระบบ Login/Auth",
+          "3": "Dashboard รายงาน"
+        }
+      },
+      "app": {
+        "title": "Mobile App",
+        "description": "แอพ iOS/Android แอพ LINE LIFF PWA ใช้งานง่าย ดีไซน์ทันสมัย",
+        "features": {
+          "1": "iOS และ Android",
+          "2": "Cross-platform",
+          "3": "Push Notification"
+        }
+      },
+      "ai": {
+        "title": "AI Solutions",
+        "description": "AI Chatbot ตอบลูกค้า 24 ชม. AI Writer เขียนบทความอัตโนมัติ",
+        "features": {
+          "1": "AI Chatbot",
+          "2": "AI Writer",
+          "3": "ทำงาน 24 ชั่วโมง"
+        }
+      },
+      "ads": {
+        "title": "ยิงโฆษณา",
+        "description": "Facebook Ads Google Ads TikTok Ads LINE Ads ดูแลแคมเปญครบวงจร",
+        "features": {
+          "1": "Facebook & Instagram Ads",
+          "2": "Google Ads",
+          "3": "TikTok Ads"
+        }
+      },
+      "seo": {
+        "title": "SEO",
+        "description": "ทำ SEO ให้ติดอันดับ Google Content Marketing เพิ่มยอดขาย",
+        "features": {
+          "1": "Keyword Research",
+          "2": "On-page SEO",
+          "3": "Content Marketing"
+        }
+      },
+      "social": {
+        "title": "Social Media",
+        "description": "สร้างและดูแล Facebook Instagram TikTok YouTube LINE OA",
+        "features": {
+          "1": "สร้างคอนเทนต์",
+          "2": "ดูแล Social",
+          "3": "วางแผนโพสต์"
+        }
+      }
+    },
+    "cta": {
+      "title": "พร้อมเริ่มโปรเจกต์ใหม่?",
+      "subtitle": "ปรึกษาฟรี ไม่มีค่าใช้จ่าย บอกความต้องการ เราจัดให้ครบ",
+      "primary": "ปรึกษาฟรี LINE",
+      "secondary": "กรอกแบบฟอร์ม"
+    },
+    "related": {
+      "title": "บริการที่เกี่ยวข้อง"
+    },
+    "website": {
+      "meta": {
+        "title": "รับทำเว็บไซต์ | TUM-WEB",
+        "description": "บริการรับทำเว็บไซต์ธุรกิจ E-commerce Landing Page ออกแบบสวย รองรับมือถือ SEO Ready ราคาเริ่มต้น 4,999 บาท",
+        "keywords": "ทำเว็บไซต์, รับทำเว็บ, เว็บไซต์ธุรกิจ, E-commerce, Landing Page"
+      },
+      "title": "ทำเว็บไซต์",
+      "description": "บริการรับทำเว็บไซต์ธุรกิจ E-commerce Landing Page ออกแบบสวย รองรับมือถือ SEO Ready",
+      "badge": "บริการทำเว็บไซต์",
+      "hero": {
+        "title": "รับทำเว็บไซต์มืออาชีพ",
+        "subtitle": "เว็บไซต์ธุรกิจ E-commerce Landing Page ดีไซน์สวย รองรับมือถือ โหลดเร็ว SEO Ready"
+      },
+      "features": {
+        "title": "ทำไมต้องทำเว็บกับเรา",
+        "subtitle": "บริการครบวงจรตั้งแต่ออกแบบจนส่งมอบ",
+        "items": {
+          "design": {
+            "title": "ดีไซน์ทันสมัย",
+            "desc": "ออกแบบสวยงาม ทันสมัย ตรงกับแบรนด์ของคุณ"
+          },
+          "responsive": {
+            "title": "รองรับทุกอุปกรณ์",
+            "desc": "แสดงผลสมบูรณ์บนมือถือ แท็บเล็ต และคอมพิวเตอร์"
+          },
+          "fast": {
+            "title": "โหลดเร็ว",
+            "desc": "เว็บไซต์โหลดไว ลดอัตราการออก เพิ่มยอดขาย"
+          },
+          "seo": {
+            "title": "SEO Ready",
+            "desc": "โครงสร้างรองรับ SEO ถูกหลัก Google"
+          },
+          "ssl": {
+            "title": "SSL Certificate",
+            "desc": "เว็บไซต์ปลอดภัย มี HTTPS ครบถ้วน"
+          },
+          "cms": {
+            "title": "ระบบจัดการ",
+            "desc": "แก้ไขเนื้อหาเองได้ง่าย ไม่ต้องเขียนโค้ด"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการทำงานที่โปร่งใส ติดตามได้ทุกขั้นตอน",
+        "steps": {
+          "consult": {
+            "title": "ปรึกษา",
+            "desc": "พูดคุยเพื่อเข้าใจความต้องการ วางแผนร่วมกัน"
+          },
+          "design": {
+            "title": "ออกแบบ",
+            "desc": "ออกแบบ Wireframe และ Design ส่งให้ตรวจสอบ"
+          },
+          "develop": {
+            "title": "พัฒนา",
+            "desc": "เขียนโค้ด พัฒนาระบบ รายงานความคืบหน้าเป็นระยะ"
+          },
+          "launch": {
+            "title": "ส่งมอบ",
+            "desc": "ทดสอบระบบ อบรมการใช้งาน ส่งมอบงาน"
+          }
+        }
+      },
+      "pricing": {
+        "title": "แพ็คเกจราคา",
+        "subtitle": "เลือกแพ็คเกจที่เหมาะกับธุรกิจของคุณ",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "4,999฿",
+            "features": {
+              "1": "Landing Page 1 หน้า",
+              "2": "ออกแบบตาม Template",
+              "3": "Responsive Design",
+              "4": "SSL Certificate",
+              "5": "ส่งมอบ 3-5 วัน"
+            }
+          },
+          "business": {
+            "name": "Business",
+            "price": "14,999฿",
+            "features": {
+              "1": "เว็บไซต์ 5-10 หน้า",
+              "2": "ออกแบบ Custom Design",
+              "3": "Responsive Design",
+              "4": "SEO พื้นฐาน",
+              "5": "ระบบจัดการเนื้อหา CMS",
+              "6": "ดูแลฟรี 3 เดือน"
+            }
+          },
+          "ecommerce": {
+            "name": "E-commerce",
+            "price": "29,999฿",
+            "features": {
+              "1": "ร้านค้าออนไลน์เต็มระบบ",
+              "2": "ระบบตะกร้าสินค้า",
+              "3": "ระบบชำระเงิน",
+              "4": "ระบบจัดการสต็อก",
+              "5": "รายงานยอดขาย",
+              "6": "เชื่อมต่อขนส่ง",
+              "7": "ดูแลฟรี 6 เดือน"
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามที่ลูกค้าถามบ่อยเกี่ยวกับบริการทำเว็บไซต์",
+        "1": {
+          "question": "ทำเว็บไซต์ใช้เวลานานแค่ไหน?",
+          "answer": "Landing Page ใช้เวลา 3-5 วัน เว็บไซต์ธุรกิจ 1-2 สัปดาห์ E-commerce 2-4 สัปดาห์ ขึ้นอยู่กับความซับซ้อนของงาน"
+        },
+        "2": {
+          "question": "ราคาเริ่มต้นเท่าไหร่?",
+          "answer": "ราคาเริ่มต้นที่ 4,999 บาท สำหรับ Landing Page และสูงขึ้นตามขอบเขตงาน ปรึกษาฟรีเพื่อประเมินราคา"
+        },
+        "3": {
+          "question": "ต้องเตรียมอะไรบ้าง?",
+          "answer": "โลโก้ ข้อมูลธุรกิจ รูปภาพ และเนื้อหาที่ต้องการ หากไม่มีทางเราช่วยจัดหาได้"
+        },
+        "4": {
+          "question": "แก้ไขเนื้อหาเองได้ไหม?",
+          "answer": "ได้ครับ เรามีระบบ CMS ให้แก้ไขเนื้อหาเองได้ง่าย ไม่ต้องเขียนโค้ด พร้อมสอนการใช้งาน"
+        },
+        "5": {
+          "question": "มีบริการดูแลหลังการขายไหม?",
+          "answer": "มีครับ ดูแลฟรี 1-3 เดือนตามแพ็คเกจ หลังจากนั้นมีแพ็คเกจดูแลรายเดือน"
+        }
+      },
+      "cta": {
+        "title": "พร้อมมีเว็บไซต์ใหม่?",
+        "subtitle": "ปรึกษาฟรี บอกความต้องการ เราออกแบบให้ตรงใจ"
+      }
+    },
+    "webapp": {
+      "meta": {
+        "title": "รับทำ Web Application | TUM-WEB",
+        "description": "บริการพัฒนา Web Application ระบบจัดการหลังบ้าน Dashboard CRM ERP ระบบสั่งซื้อ ระบบจองคิว",
+        "keywords": "Web Application, ระบบจัดการ, Dashboard, CRM, ERP, ระบบสั่งซื้อ"
+      },
+      "title": "Web Application",
+      "description": "บริการพัฒนา Web Application ระบบจัดการหลังบ้าน Dashboard CRM ERP",
+      "badge": "บริการ Web Application",
+      "hero": {
+        "title": "พัฒนา Web Application",
+        "subtitle": "ระบบจัดการหลังบ้าน Dashboard CRM ERP ระบบสั่งซื้อ ระบบจองคิว ออกแบบตามความต้องการ"
+      },
+      "features": {
+        "title": "ฟีเจอร์ที่คุณจะได้รับ",
+        "subtitle": "ระบบครบครันตอบโจทย์ธุรกิจ",
+        "items": {
+          "database": {
+            "title": "ระบบฐานข้อมูล",
+            "desc": "ออกแบบฐานข้อมูลที่เหมาะสมกับธุรกิจ ปลอดภัย Backup อัตโนมัติ"
+          },
+          "auth": {
+            "title": "ระบบ Login/Auth",
+            "desc": "ระบบยืนยันตัวตน กำหนดสิทธิ์ผู้ใช้ รักษาความปลอดภัย"
+          },
+          "realtime": {
+            "title": "Real-time Update",
+            "desc": "ข้อมูลอัพเดทแบบ Real-time ไม่ต้อง Refresh หน้า"
+          },
+          "cloud": {
+            "title": "Cloud Hosting",
+            "desc": "รันบน Cloud ที่เสถียร รองรับผู้ใช้งานจำนวนมาก"
+          },
+          "api": {
+            "title": "API Integration",
+            "desc": "เชื่อมต่อกับระบบภายนอก API Third-party"
+          },
+          "dashboard": {
+            "title": "Dashboard & Reports",
+            "desc": "รายงานและ Dashboard แบบ Visual เข้าใจง่าย"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการพัฒนาที่มีมาตรฐาน",
+        "steps": {
+          "consult": {
+            "title": "วิเคราะห์ความต้องการ",
+            "desc": "เก็บ Requirement ทำความเข้าใจธุรกิจและปัญหาที่ต้องการแก้"
+          },
+          "plan": {
+            "title": "ออกแบบระบบ",
+            "desc": "วางโครงสร้างระบบ ออกแบบ Database และ Wireframe"
+          },
+          "develop": {
+            "title": "พัฒนาระบบ",
+            "desc": "เขียนโค้ด พัฒนาตาม Sprint รายงานความคืบหน้าทุกสัปดาห์"
+          },
+          "launch": {
+            "title": "ทดสอบและส่งมอบ",
+            "desc": "ทดสอบระบบครบถ้วน อบรมการใช้งาน ส่งมอบพร้อม Support"
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการ Web Application",
+        "1": {
+          "question": "Web Application ต่างจากเว็บไซต์ธรรมดายังไง?",
+          "answer": "Web Application มีระบบหลังบ้านที่ซับซ้อนกว่า เช่น ระบบ Login ฐานข้อมูล การประมวลผล ในขณะที่เว็บไซต์ธรรมดาเน้นแสดงข้อมูลเป็นหลัก"
+        },
+        "2": {
+          "question": "ใช้เวลาพัฒนานานแค่ไหน?",
+          "answer": "ขึ้นอยู่กับความซับซ้อน ระบบขนาดเล็ก 4-6 สัปดาห์ ระบบขนาดกลาง 2-3 เดือน ระบบขนาดใหญ่ 4-6 เดือน"
+        },
+        "3": {
+          "question": "รองรับผู้ใช้งานได้กี่คนพร้อมกัน?",
+          "answer": "ออกแบบให้รองรับได้ตามความต้องการ ตั้งแต่หลักสิบถึงหลักแสนคนพร้อมกัน ขึ้นอยู่กับ Infra"
+        },
+        "4": {
+          "question": "สามารถเชื่อมต่อกับระบบอื่นได้ไหม?",
+          "answer": "ได้ครับ เราออกแบบ API ให้เชื่อมต่อกับระบบภายนอกได้ เช่น ERP, CRM, Payment Gateway"
+        },
+        "5": {
+          "question": "มีค่าดูแลรายเดือนไหม?",
+          "answer": "มีค่า Hosting และ Maintenance รายเดือน ขึ้นอยู่กับขนาดของระบบ เริ่มต้นที่ 2,000-5,000 บาท/เดือน"
+        }
+      },
+      "cta": {
+        "title": "พร้อมพัฒนาระบบใหม่?",
+        "subtitle": "ปรึกษาฟรี บอกปัญหา เราช่วยหาทางออก"
+      }
+    },
+    "app": {
+      "meta": {
+        "title": "รับทำ Mobile App | TUM-WEB",
+        "description": "บริการพัฒนา Mobile App iOS Android Cross-platform React Native Flutter PWA",
+        "keywords": "Mobile App, iOS, Android, React Native, Flutter, PWA, แอพมือถือ"
+      },
+      "title": "Mobile App",
+      "description": "บริการพัฒนา Mobile App iOS Android Cross-platform",
+      "badge": "บริการ Mobile App",
+      "hero": {
+        "title": "พัฒนา Mobile App",
+        "subtitle": "แอพ iOS/Android Cross-platform React Native Flutter LINE LIFF PWA ใช้งานง่าย ดีไซน์ทันสมัย"
+      },
+      "features": {
+        "title": "ฟีเจอร์ที่คุณจะได้รับ",
+        "subtitle": "พัฒนาแอพครบทุกแพลตฟอร์ม",
+        "items": {
+          "ios": {
+            "title": "iOS App",
+            "desc": "แอพสำหรับ iPhone และ iPad ขึ้น App Store"
+          },
+          "android": {
+            "title": "Android App",
+            "desc": "แอพสำหรับ Android ทุกรุ่น ขึ้น Play Store"
+          },
+          "crossplatform": {
+            "title": "Cross-platform",
+            "desc": "พัฒนาครั้งเดียวใช้ได้ทั้ง iOS และ Android"
+          },
+          "push": {
+            "title": "Push Notification",
+            "desc": "แจ้งเตือนผู้ใช้ เพิ่ม Engagement"
+          },
+          "offline": {
+            "title": "Offline Mode",
+            "desc": "ใช้งานได้แม้ไม่มีอินเทอร์เน็ต"
+          },
+          "pwa": {
+            "title": "PWA",
+            "desc": "Progressive Web App ใช้งานผ่านเบราว์เซอร์"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการพัฒนาแอพอย่างมืออาชีพ",
+        "steps": {
+          "consult": {
+            "title": "วิเคราะห์ความต้องการ",
+            "desc": "เก็บ Requirement วางแผน Features และ User Flow"
+          },
+          "design": {
+            "title": "ออกแบบ UI/UX",
+            "desc": "ออกแบบ Wireframe และ Visual Design ให้ตรวจสอบ"
+          },
+          "develop": {
+            "title": "พัฒนาแอพ",
+            "desc": "เขียนโค้ด ทดสอบ รายงานความคืบหน้าเป็นระยะ"
+          },
+          "launch": {
+            "title": "ขึ้น Store",
+            "desc": "ทดสอบ ส่งขึ้น App Store และ Play Store"
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการ Mobile App",
+        "1": {
+          "question": "ควรทำ Native หรือ Cross-platform?",
+          "answer": "ขึ้นอยู่กับความต้องการ Native ดีกว่าด้าน Performance แต่ Cross-platform ประหยัดต้นทุนและเวลากว่า"
+        },
+        "2": {
+          "question": "ใช้เวลาพัฒนานานแค่ไหน?",
+          "answer": "แอพขนาดเล็ก 1-2 เดือน แอพขนาดกลาง 3-4 เดือน แอพขนาดใหญ่ 6+ เดือน"
+        },
+        "3": {
+          "question": "ค่าขึ้น App Store และ Play Store เท่าไหร่?",
+          "answer": "Apple Developer $99/ปี, Google Play $25 ครั้งเดียว ทางเราช่วยดำเนินการให้"
+        },
+        "4": {
+          "question": "แอพต้องอัพเดทบ่อยไหม?",
+          "answer": "แนะนำอัพเดททุก 1-3 เดือน เพื่อแก้บัค เพิ่มฟีเจอร์ และรองรับ OS ใหม่"
+        },
+        "5": {
+          "question": "PWA ดียังไง?",
+          "answer": "PWA ไม่ต้องดาวน์โหลดจาก Store ใช้งานผ่าน Browser ประหยัดต้นทุน เหมาะกับธุรกิจขนาดเล็ก-กลาง"
+        }
+      },
+      "cta": {
+        "title": "พร้อมมีแอพของตัวเอง?",
+        "subtitle": "ปรึกษาฟรี วางแผน Features และประเมินราคา"
+      }
+    },
+    "ai": {
+      "meta": {
+        "title": "AI Chatbot & AI Writer | TUM-WEB",
+        "description": "บริการ AI Chatbot ตอบลูกค้าอัตโนมัติ 24 ชั่วโมง และ AI Writer เขียนบทความอัตโนมัติ",
+        "keywords": "AI Chatbot, AI Writer, Chatbot, ChatGPT, Claude, LINE Chatbot"
+      },
+      "title": "AI Solutions",
+      "description": "AI Chatbot ตอบลูกค้า 24 ชม. AI Writer เขียนบทความอัตโนมัติ",
+      "badge": "บริการ AI Solutions",
+      "hero": {
+        "title": "AI Chatbot & AI Writer",
+        "subtitle": "AI Chatbot ตอบลูกค้าอัตโนมัติ 24 ชั่วโมง AI Writer ช่วยเขียนบทความ คอนเทนต์ ประหยัดเวลาและต้นทุน"
+      },
+      "features": {
+        "title": "ฟีเจอร์ที่คุณจะได้รับ",
+        "subtitle": "เทคโนโลยี AI ล้ำสมัยสำหรับธุรกิจ",
+        "items": {
+          "chatbot": {
+            "title": "AI Chatbot",
+            "desc": "บอทตอบแชทอัจฉริยะ เข้าใจภาษาธรรมชาติ ตอบได้แม่นยำ"
+          },
+          "writer": {
+            "title": "AI Writer",
+            "desc": "เขียนบทความ คอนเทนต์ Caption โฆษณาอัตโนมัติ"
+          },
+          "24hours": {
+            "title": "ทำงาน 24 ชั่วโมง",
+            "desc": "AI ไม่มีวันหยุด พร้อมตอบลูกค้าตลอด 24 ชั่วโมง"
+          },
+          "fast": {
+            "title": "ตอบไว",
+            "desc": "AI ตอบภายใน 1-3 วินาที ไม่ต้องรอนาน"
+          },
+          "learn": {
+            "title": "เรียนรู้ได้",
+            "desc": "ฝึก AI ด้วยข้อมูลธุรกิจ ตอบได้ตรงประเด็น"
+          },
+          "integration": {
+            "title": "เชื่อมต่อง่าย",
+            "desc": "รองรับ LINE Facebook Messenger และเว็บไซต์"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการ Setup AI อย่างมืออาชีพ",
+        "steps": {
+          "consult": {
+            "title": "วิเคราะห์ความต้องการ",
+            "desc": "ทำความเข้าใจธุรกิจ กำหนด Use Case ที่ต้องการ"
+          },
+          "train": {
+            "title": "ฝึก AI",
+            "desc": "ใส่ข้อมูลธุรกิจ FAQ สินค้า เงื่อนไขต่างๆ ให้ AI เรียนรู้"
+          },
+          "setup": {
+            "title": "ติดตั้งระบบ",
+            "desc": "เชื่อมต่อกับ LINE Facebook หรือเว็บไซต์"
+          },
+          "launch": {
+            "title": "เปิดใช้งาน",
+            "desc": "ทดสอบและเปิดใช้งาน พร้อม Monitor และปรับปรุง"
+          }
+        }
+      },
+      "pricing": {
+        "title": "แพ็คเกจราคา",
+        "subtitle": "เลือกแพ็คเกจที่เหมาะกับธุรกิจของคุณ",
+        "tiers": {
+          "chatbot": {
+            "name": "AI Chatbot",
+            "price": "4,999฿/เดือน",
+            "features": {
+              "1": "AI Chatbot 1 ช่องทาง",
+              "2": "รองรับ 1,000 ข้อความ/เดือน",
+              "3": "ฝึกด้วย FAQ 50 ข้อ",
+              "4": "รายงานการใช้งาน",
+              "5": "Support ทางไลน์"
+            }
+          },
+          "writer": {
+            "name": "AI Writer",
+            "price": "2,999฿/เดือน",
+            "features": {
+              "1": "เขียนบทความ 30 ชิ้น/เดือน",
+              "2": "เขียน Caption 100 ชิ้น/เดือน",
+              "3": "แก้ไขได้ไม่จำกัด",
+              "4": "หลายภาษา TH/EN",
+              "5": "ปรับโทนได้ตามต้องการ"
+            }
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "price": "ติดต่อเรา",
+            "features": {
+              "1": "AI Chatbot ไม่จำกัดช่องทาง",
+              "2": "ข้อความไม่จำกัด",
+              "3": "AI Writer ไม่จำกัด",
+              "4": "Custom AI Training",
+              "5": "API Integration",
+              "6": "Dedicated Support"
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการ AI",
+        "1": {
+          "question": "AI Chatbot ตอบได้ฉลาดแค่ไหน?",
+          "answer": "ใช้เทคโนโลยี ChatGPT/Claude เข้าใจภาษาธรรมชาติได้ดี ตอบได้แม่นยำถ้าฝึกด้วยข้อมูลที่ถูกต้อง"
+        },
+        "2": {
+          "question": "เชื่อมต่อกับ LINE ได้ไหม?",
+          "answer": "ได้ครับ รองรับ LINE Official Account, Facebook Messenger และเว็บไซต์"
+        },
+        "3": {
+          "question": "ถ้า AI ตอบไม่ได้จะทำยังไง?",
+          "answer": "AI จะโอนเรื่องไปหาพนักงานโดยอัตโนมัติ พร้อมส่งประวัติการสนทนาให้ด้วย"
+        },
+        "4": {
+          "question": "AI Writer เขียนได้ดีแค่ไหน?",
+          "answer": "คุณภาพดี แต่แนะนำให้ตรวจสอบก่อนเผยแพร่ โดยเฉพาะข้อมูลตัวเลขและข้อเท็จจริง"
+        },
+        "5": {
+          "question": "ใช้เวลา Setup นานไหม?",
+          "answer": "AI Chatbot 3-5 วัน, ระบบ Enterprise 1-2 สัปดาห์ ขึ้นอยู่กับความซับซ้อน"
+        }
+      },
+      "cta": {
+        "title": "พร้อมใช้ AI ช่วยธุรกิจ?",
+        "subtitle": "ปรึกษาฟรี ดูเดโมระบบจริง"
+      }
+    },
+    "ads": {
+      "meta": {
+        "title": "รับยิงโฆษณา Facebook Google TikTok | TUM-WEB",
+        "description": "บริการยิงโฆษณา Facebook Ads Google Ads TikTok Ads LINE Ads ดูแลแคมเปญครบวงจร เพิ่มยอดขาย",
+        "keywords": "ยิงโฆษณา, Facebook Ads, Google Ads, TikTok Ads, LINE Ads, โฆษณาออนไลน์"
+      },
+      "title": "ยิงโฆษณา",
+      "description": "Facebook Ads Google Ads TikTok Ads LINE Ads ดูแลแคมเปญครบวงจร",
+      "badge": "บริการยิงโฆษณา",
+      "hero": {
+        "title": "ยิงโฆษณาออนไลน์",
+        "subtitle": "Facebook Ads Google Ads TikTok Ads LINE Ads ดูแลแคมเปญครบวงจร เพิ่มยอดขายให้ธุรกิจคุณ"
+      },
+      "features": {
+        "title": "แพลตฟอร์มที่รองรับ",
+        "subtitle": "ยิงโฆษณาครบทุกช่องทาง",
+        "items": {
+          "facebook": {
+            "title": "Facebook & Instagram Ads",
+            "desc": "โฆษณาบน Facebook และ Instagram เข้าถึงกลุ่มเป้าหมายได้แม่นยำ"
+          },
+          "google": {
+            "title": "Google Ads",
+            "desc": "โฆษณาบน Google Search, Display, YouTube เพิ่ม Traffic"
+          },
+          "tiktok": {
+            "title": "TikTok Ads",
+            "desc": "โฆษณาบน TikTok เข้าถึงกลุ่มคนรุ่นใหม่"
+          },
+          "targeting": {
+            "title": "Targeting แม่นยำ",
+            "desc": "เลือกกลุ่มเป้าหมายได้ละเอียด อายุ เพศ ความสนใจ พฤติกรรม"
+          },
+          "analytics": {
+            "title": "รายงานผล",
+            "desc": "รายงานผลโฆษณารายสัปดาห์ พร้อมข้อเสนอแนะปรับปรุง"
+          },
+          "budget": {
+            "title": "ควบคุมงบประมาณ",
+            "desc": "ตั้งงบประมาณได้ตามต้องการ ไม่มีขั้นต่ำ"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการยิงโฆษณาอย่างมีประสิทธิภาพ",
+        "steps": {
+          "consult": {
+            "title": "วิเคราะห์ธุรกิจ",
+            "desc": "ทำความเข้าใจธุรกิจ สินค้า กลุ่มเป้าหมาย และเป้าหมาย"
+          },
+          "strategy": {
+            "title": "วางกลยุทธ์",
+            "desc": "วางแผนแคมเปญ กำหนดงบประมาณ เลือกแพลตฟอร์ม"
+          },
+          "campaign": {
+            "title": "สร้างแคมเปญ",
+            "desc": "ออกแบบ Creative สร้างโฆษณา ตั้งค่า Targeting"
+          },
+          "optimize": {
+            "title": "ปรับปรุงผล",
+            "desc": "Monitor ผลลัพธ์ ปรับปรุงตลอด รายงานผลทุกสัปดาห์"
+          }
+        }
+      },
+      "pricing": {
+        "title": "แพ็คเกจราคา",
+        "subtitle": "เลือกแพ็คเกจที่เหมาะกับธุรกิจของคุณ",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "3,999฿/เดือน",
+            "features": {
+              "1": "1 แพลตฟอร์ม",
+              "2": "งบโฆษณา 5,000-10,000฿",
+              "3": "สร้าง Creative 3 ชิ้น",
+              "4": "รายงานรายสัปดาห์",
+              "5": "ปรึกษาได้ตลอด"
+            }
+          },
+          "growth": {
+            "name": "Growth",
+            "price": "7,999฿/เดือน",
+            "features": {
+              "1": "2 แพลตฟอร์ม",
+              "2": "งบโฆษณา 10,000-30,000฿",
+              "3": "สร้าง Creative 6 ชิ้น",
+              "4": "A/B Testing",
+              "5": "Retargeting",
+              "6": "รายงานรายสัปดาห์"
+            }
+          },
+          "scale": {
+            "name": "Scale",
+            "price": "15,000฿/เดือน",
+            "features": {
+              "1": "ทุกแพลตฟอร์ม",
+              "2": "งบโฆษณา 30,000฿+",
+              "3": "Creative ไม่จำกัด",
+              "4": "A/B Testing",
+              "5": "Full Funnel Strategy",
+              "6": "รายงานรายสัปดาห์",
+              "7": "ประชุมรายเดือน"
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการยิงโฆษณา",
+        "1": {
+          "question": "ต้องมีงบโฆษณาขั้นต่ำเท่าไหร่?",
+          "answer": "แนะนำงบโฆษณาเริ่มต้นที่ 5,000 บาท/เดือน เพื่อให้ได้ข้อมูลเพียงพอในการปรับปรุงแคมเปญ"
+        },
+        "2": {
+          "question": "เห็นผลเมื่อไหร่?",
+          "answer": "Facebook/TikTok เห็นผลภายใน 1-2 สัปดาห์ Google Ads อาจใช้เวลา 2-4 สัปดาห์ในการ Optimize"
+        },
+        "3": {
+          "question": "ค่าบริการรวมค่าโฆษณาไหม?",
+          "answer": "ไม่รวม ค่าบริการเป็นค่าดูแลจัดการแคมเปญ ค่าโฆษณาจ่ายตรงให้แพลตฟอร์ม"
+        },
+        "4": {
+          "question": "ต้องมี Facebook Page/Google Ads Account ก่อนไหม?",
+          "answer": "ถ้าไม่มีเราช่วยสร้างให้ได้ หรือใช้ Account ที่มีอยู่แล้วก็ได้"
+        },
+        "5": {
+          "question": "รับประกันยอดขายไหม?",
+          "answer": "ไม่มีการรับประกันยอดขาย แต่เรามุ่งเน้นการปรับปรุง ROAS อย่างต่อเนื่อง"
+        }
+      },
+      "cta": {
+        "title": "พร้อมเพิ่มยอดขาย?",
+        "subtitle": "ปรึกษาฟรี วิเคราะห์ธุรกิจ วางแผนแคมเปญ"
+      }
+    },
+    "seo": {
+      "meta": {
+        "title": "รับทำ SEO ติดอันดับ Google | TUM-WEB",
+        "description": "บริการทำ SEO ให้เว็บไซต์ติดอันดับ Google Keyword Research On-page SEO Technical SEO Link Building",
+        "keywords": "SEO, ทำ SEO, ติดอันดับ Google, Keyword Research, On-page SEO, Link Building"
+      },
+      "title": "SEO",
+      "description": "ทำ SEO ให้ติดอันดับ Google Content Marketing เพิ่มยอดขาย",
+      "badge": "บริการ SEO",
+      "hero": {
+        "title": "ทำ SEO ติดอันดับ Google",
+        "subtitle": "เพิ่ม Traffic ออร์แกนิก Keyword Research On-page SEO Technical SEO Link Building ครบวงจร"
+      },
+      "features": {
+        "title": "บริการ SEO ครบวงจร",
+        "subtitle": "ทุกอย่างที่ต้องการเพื่อติดอันดับ Google",
+        "items": {
+          "keyword": {
+            "title": "Keyword Research",
+            "desc": "วิจัย Keyword ที่เหมาะกับธุรกิจ มีโอกาสติดอันดับสูง"
+          },
+          "content": {
+            "title": "Content Optimization",
+            "desc": "ปรับปรุงเนื้อหาให้ตรงกับ Search Intent"
+          },
+          "technical": {
+            "title": "Technical SEO",
+            "desc": "ปรับปรุงโครงสร้างเว็บ Speed Core Web Vitals Schema"
+          },
+          "linkbuilding": {
+            "title": "Link Building",
+            "desc": "สร้าง Backlink คุณภาพ เพิ่ม Authority"
+          },
+          "local": {
+            "title": "Local SEO",
+            "desc": "ทำ Google Business Profile ติดอันดับในพื้นที่"
+          },
+          "analytics": {
+            "title": "รายงานผล",
+            "desc": "รายงานอันดับ Traffic รายเดือน พร้อมข้อเสนอแนะ"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการทำ SEO อย่างมีระบบ",
+        "steps": {
+          "audit": {
+            "title": "SEO Audit",
+            "desc": "ตรวจสอบสถานะ SEO ปัจจุบัน หาจุดที่ต้องปรับปรุง"
+          },
+          "strategy": {
+            "title": "วางกลยุทธ์",
+            "desc": "กำหนด Keyword เป้าหมาย วางแผน Content และ Link Building"
+          },
+          "optimize": {
+            "title": "ปรับปรุงเว็บ",
+            "desc": "ทำ On-page SEO Technical SEO สร้าง Content"
+          },
+          "monitor": {
+            "title": "ติดตามผล",
+            "desc": "Monitor อันดับ Traffic รายงานผลรายเดือน"
+          }
+        }
+      },
+      "pricing": {
+        "title": "แพ็คเกจราคา",
+        "subtitle": "เลือกแพ็คเกจที่เหมาะกับธุรกิจของคุณ",
+        "tiers": {
+          "basic": {
+            "name": "Basic",
+            "price": "9,999฿/เดือน",
+            "features": {
+              "1": "10 Keywords",
+              "2": "On-page SEO",
+              "3": "Technical SEO พื้นฐาน",
+              "4": "รายงานรายเดือน",
+              "5": "ปรึกษาได้ตลอด"
+            }
+          },
+          "pro": {
+            "name": "Pro",
+            "price": "19,999฿/เดือน",
+            "features": {
+              "1": "25 Keywords",
+              "2": "On-page SEO",
+              "3": "Technical SEO เต็มรูปแบบ",
+              "4": "Link Building 5 ลิงก์/เดือน",
+              "5": "Content 2 บทความ/เดือน",
+              "6": "รายงานรายสัปดาห์"
+            }
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "price": "ติดต่อเรา",
+            "features": {
+              "1": "Keyword ไม่จำกัด",
+              "2": "SEO ครบวงจร",
+              "3": "Link Building 10+ ลิงก์/เดือน",
+              "4": "Content 4+ บทความ/เดือน",
+              "5": "Local SEO",
+              "6": "Dedicated SEO Manager"
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการ SEO",
+        "1": {
+          "question": "SEO ใช้เวลานานแค่ไหนถึงเห็นผล?",
+          "answer": "โดยทั่วไป 3-6 เดือน ขึ้นอยู่กับการแข่งขันของ Keyword และสถานะเว็บปัจจุบัน"
+        },
+        "2": {
+          "question": "รับประกันอันดับไหม?",
+          "answer": "ไม่มีใครรับประกันอันดับ Google ได้ แต่เรามุ่งเน้นทำทุกอย่างถูกต้องตามแนวทาง Google"
+        },
+        "3": {
+          "question": "ต้องทำ SEO ต่อเนื่องไหม?",
+          "answer": "แนะนำทำต่อเนื่องอย่างน้อย 6-12 เดือน เพื่อรักษาและปรับปรุงอันดับ"
+        },
+        "4": {
+          "question": "SEO ต่างจากยิงโฆษณายังไง?",
+          "answer": "SEO เป็น Traffic ฟรี ใช้เวลานานกว่าแต่ยั่งยืน โฆษณาเห็นผลเร็วแต่ต้องจ่ายตลอด"
+        },
+        "5": {
+          "question": "เว็บใหม่ทำ SEO ได้เลยไหม?",
+          "answer": "ได้ครับ แต่เว็บใหม่ต้องใช้เวลานานกว่า เพราะ Domain ยังไม่มี Authority"
+        }
+      },
+      "cta": {
+        "title": "พร้อมติดอันดับ Google?",
+        "subtitle": "ปรึกษาฟรี ตรวจสอบ SEO เว็บคุณ"
+      }
+    },
+    "social": {
+      "meta": {
+        "title": "รับดูแล Social Media | TUM-WEB",
+        "description": "บริการสร้างและดูแล Facebook Instagram TikTok YouTube LINE OA วางแผนคอนเทนต์ เพิ่มผู้ติดตาม",
+        "keywords": "Social Media, Facebook, Instagram, TikTok, YouTube, LINE OA, ดูแลโซเชียล"
+      },
+      "title": "Social Media",
+      "description": "สร้างและดูแล Facebook Instagram TikTok YouTube LINE OA",
+      "badge": "บริการ Social Media",
+      "hero": {
+        "title": "ดูแล Social Media",
+        "subtitle": "สร้างและดูแล Facebook Instagram TikTok YouTube LINE OA วางแผนคอนเทนต์ เพิ่มผู้ติดตาม"
+      },
+      "features": {
+        "title": "แพลตฟอร์มที่รองรับ",
+        "subtitle": "ดูแลครบทุกช่องทาง Social Media",
+        "items": {
+          "facebook": {
+            "title": "Facebook",
+            "desc": "สร้างและดูแล Facebook Page โพสต์ ตอบคอมเมนต์"
+          },
+          "instagram": {
+            "title": "Instagram",
+            "desc": "วางแผน Feed Story Reels เพิ่ม Engagement"
+          },
+          "tiktok": {
+            "title": "TikTok",
+            "desc": "สร้างคอนเทนต์วิดีโอสั้น ตามเทรนด์"
+          },
+          "youtube": {
+            "title": "YouTube",
+            "desc": "วางแผนวิดีโอ Shorts ทำ SEO YouTube"
+          },
+          "content": {
+            "title": "สร้างคอนเทนต์",
+            "desc": "ออกแบบกราฟิก เขียน Caption ถ่าย/ตัดวิดีโอ"
+          },
+          "schedule": {
+            "title": "วางแผนโพสต์",
+            "desc": "วาง Content Calendar จัดตารางโพสต์"
+          }
+        }
+      },
+      "process": {
+        "title": "ขั้นตอนการทำงาน",
+        "subtitle": "กระบวนการดูแล Social อย่างมืออาชีพ",
+        "steps": {
+          "consult": {
+            "title": "วิเคราะห์ธุรกิจ",
+            "desc": "ทำความเข้าใจธุรกิจ กลุ่มเป้าหมาย คู่แข่ง"
+          },
+          "plan": {
+            "title": "วางแผนคอนเทนต์",
+            "desc": "สร้าง Content Calendar กำหนด Theme และ Pillar"
+          },
+          "create": {
+            "title": "สร้างคอนเทนต์",
+            "desc": "ออกแบบกราฟิก เขียน Caption ผลิตวิดีโอ"
+          },
+          "grow": {
+            "title": "เพิ่มผู้ติดตาม",
+            "desc": "โพสต์ตามแผน ตอบคอมเมนต์ วัดผลและปรับปรุง"
+          }
+        }
+      },
+      "pricing": {
+        "title": "แพ็คเกจราคา",
+        "subtitle": "เลือกแพ็คเกจที่เหมาะกับธุรกิจของคุณ",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "5,999฿/เดือน",
+            "features": {
+              "1": "1 แพลตฟอร์ม",
+              "2": "12 โพสต์/เดือน",
+              "3": "ออกแบบกราฟิก",
+              "4": "เขียน Caption",
+              "5": "รายงานรายเดือน"
+            }
+          },
+          "business": {
+            "name": "Business",
+            "price": "12,999฿/เดือน",
+            "features": {
+              "1": "2 แพลตฟอร์ม",
+              "2": "20 โพสต์/เดือน",
+              "3": "ออกแบบกราฟิก",
+              "4": "วิดีโอ/Reels 4 ชิ้น",
+              "5": "ตอบคอมเมนต์",
+              "6": "รายงานรายสัปดาห์"
+            }
+          },
+          "premium": {
+            "name": "Premium",
+            "price": "24,999฿/เดือน",
+            "features": {
+              "1": "3+ แพลตฟอร์ม",
+              "2": "30 โพสต์/เดือน",
+              "3": "ออกแบบกราฟิก Premium",
+              "4": "วิดีโอ/Reels 8 ชิ้น",
+              "5": "ตอบคอมเมนต์ 24 ชม.",
+              "6": "Influencer Collab",
+              "7": "รายงานรายสัปดาห์"
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "คำถามที่พบบ่อย",
+        "subtitle": "รวมคำถามเกี่ยวกับบริการ Social Media",
+        "1": {
+          "question": "ต้องให้ข้อมูลอะไรบ้าง?",
+          "answer": "ข้อมูลธุรกิจ สินค้า/บริการ กลุ่มเป้าหมาย โทนที่ต้องการ รูปภาพหรือวิดีโอ (ถ้ามี)"
+        },
+        "2": {
+          "question": "โพสต์กี่ครั้งต่อสัปดาห์?",
+          "answer": "ขึ้นอยู่กับแพ็คเกจ เริ่มต้น 3 โพสต์/สัปดาห์ แนะนำ 4-5 โพสต์/สัปดาห์"
+        },
+        "3": {
+          "question": "ใครเป็นคนอนุมัติคอนเทนต์?",
+          "answer": "เราจะส่งคอนเทนต์ให้ตรวจสอบก่อนโพสต์ทุกครั้ง"
+        },
+        "4": {
+          "question": "ตอบคอมเมนต์ให้ไหม?",
+          "answer": "ขึ้นอยู่กับแพ็คเกจ บางแพ็คเกจรวมตอบคอมเมนต์และ Inbox ด้วย"
+        },
+        "5": {
+          "question": "รับประกันยอด Followers ไหม?",
+          "answer": "ไม่รับประกัน แต่เรามุ่งเน้นสร้างคอนเทนต์คุณภาพที่ดึงดูด Followers แท้จริง"
+        }
+      },
+      "cta": {
+        "title": "พร้อมโตบน Social?",
+        "subtitle": "ปรึกษาฟรี วางแผน Content Strategy"
+      }
+    }
+  },
+  "faq": {
+    "title": "คำถามที่พบบ่อย",
+    "subtitle": "รวมคำถามที่ลูกค้าถามบ่อย",
+    "items": {
+      "q1": {
+        "question": "ราคาทำเว็บไซต์เริ่มต้นเท่าไหร่?",
+        "answer": "ราคาเริ่มต้น 4,999 บาท สำหรับ Landing Page ขึ้นอยู่กับขอบเขตงาน"
+      },
+      "q2": {
+        "question": "ใช้เวลาทำนานแค่ไหน?",
+        "answer": "Landing Page 3-5 วัน เว็บไซต์ธุรกิจ 1-2 สัปดาห์ ขึ้นอยู่กับความซับซ้อน"
+      },
+      "q3": {
+        "question": "มีบริการดูแลหลังการขายไหม?",
+        "answer": "มีครับ ดูแลฟรี 1-3 เดือนตามแพ็คเกจ"
+      },
+      "q4": {
+        "question": "ชำระเงินอย่างไร?",
+        "answer": "แบ่งชำระ 50% ก่อนเริ่มงาน และ 50% เมื่อส่งมอบ"
+      }
+    }
+  },
+  "cta": {
+    "title": "พร้อมเริ่มโปรเจกต์ใหม่?",
+    "subtitle": "ปรึกษาฟรี ไม่มีค่าใช้จ่าย",
+    "button": "ติดต่อเรา"
+  },
+  "home": {
+    "meta": {
+      "title": "TUM-WEB | รับทำเว็บไซต์ แอพพลิเคชัน AI Solutions ครบวงจร",
+      "description": "บริการรับทำเว็บไซต์ Web Application Mobile App AI Chatbot ยิงโฆษณา SEO และสร้างช่องทางออนไลน์ครบวงจร ปรึกษาฟรี"
+    },
+    "hero": {
+      "badge": "Digital Agency ครบวงจร",
+      "title": {
+        "line1": "ทำเว็บ ทำแอพ",
+        "line2": "ครบจบในที่เดียว"
+      },
+      "subtitle": "บริการออกแบบและพัฒนาเว็บไซต์ แอพพลิเคชัน AI Chatbot พร้อมยิงโฆษณาและทำ SEO ดูแลธุรกิจคุณตั้งแต่เริ่มต้นจนประสบความสำเร็จ",
+      "cta": {
+        "primary": "ปรึกษาฟรี LINE",
+        "secondary": "ดูผลงาน"
+      },
+      "stats": {
+        "projects": "โปรเจกต์สำเร็จ",
+        "clients": "ลูกค้าที่ไว้วางใจ",
+        "experience": "ปีประสบการณ์",
+        "satisfaction": "ความพึงพอใจ"
+      }
+    }
+  },
+  "footer": {
+    "description": "บริการรับทำเว็บไซต์ แอพพลิเคชัน AI Solutions ครบวงจร ดูแลธุรกิจคุณตั้งแต่เริ่มต้นจนประสบความสำเร็จ",
+    "services": {
+      "title": "บริการ",
+      "website": "ทำเว็บไซต์",
+      "webapp": "Web Application",
+      "app": "Mobile App",
+      "ai": "AI Solutions",
+      "ads": "ยิงโฆษณา",
+      "seo": "SEO"
+    },
+    "company": {
+      "title": "บริษัท",
+      "about": "เกี่ยวกับเรา",
+      "portfolio": "ผลงาน",
+      "blog": "บทความ",
+      "contact": "ติดต่อ"
+    },
+    "contact": {
+      "title": "ติดต่อ",
+      "location": "กรุงเทพฯ ประเทศไทย"
+    },
+    "rights": "สงวนลิขสิทธิ์",
+    "privacy": "นโยบายความเป็นส่วนตัว",
+    "terms": "ข้อกำหนดการใช้งาน"
+  },
+  "chat": {
+    "title": "TUM-WEB Bot",
+    "subtitle": "AI Assistant",
+    "welcome": "สวัสดีครับ! มีอะไรให้ช่วยไหมครับ?",
+    "placeholder": "พิมพ์ข้อความ...",
+    "demo": {
+      "response": "ขอบคุณที่ติดต่อมาครับ นี่คือ Demo ของ AI Chatbot ที่เราสามารถพัฒนาให้กับธุรกิจของคุณได้ หากสนใจ สามารถติดต่อทีมงานผ่าน LINE @tumweb ได้เลยครับ"
+    }
+  }
+}

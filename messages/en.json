@@ -1,0 +1,936 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Free Consult",
+    "getQuote": "Get Quote"
+  },
+  "home": {
+    "meta": {
+      "title": "TUM-WEB | Website, Application & AI Solutions Agency",
+      "description": "Full-service digital agency offering website development, web applications, mobile apps, AI chatbots, advertising, and SEO services. Free consultation."
+    },
+    "hero": {
+      "badge": "Full-Service Digital Agency",
+      "title": {
+        "line1": "Web & App Development",
+        "line2": "All in One Place"
+      },
+      "subtitle": "Professional website and application development, AI chatbots, advertising, and SEO services. We take care of your business from start to success.",
+      "cta": {
+        "primary": "Free Consult via LINE",
+        "secondary": "View Portfolio"
+      },
+      "stats": {
+        "projects": "Projects Completed",
+        "clients": "Happy Clients",
+        "experience": "Years Experience",
+        "satisfaction": "Satisfaction Rate"
+      }
+    },
+    "services": {
+      "badge": "Our Services",
+      "title": "What We Can Do",
+      "subtitle": "Full-service digital solutions from website development to online marketing",
+      "learnMore": "Learn More",
+      "viewAll": "View All Services",
+      "items": {
+        "website": {
+          "title": "Website Development",
+          "description": "Business websites, E-commerce, Landing Pages. Beautiful design, mobile-friendly, SEO ready."
+        },
+        "webapp": {
+          "title": "Web Application",
+          "description": "Admin dashboards, CRM, ERP, order management, booking systems, and custom solutions."
+        },
+        "app": {
+          "title": "Mobile App",
+          "description": "iOS/Android apps, LINE LIFF apps, PWA. User-friendly with modern design."
+        },
+        "ai": {
+          "title": "AI Solutions",
+          "description": "AI Chatbot for 24/7 customer service. AI Writer for automated content creation."
+        },
+        "ads": {
+          "title": "Advertising",
+          "description": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads. Full campaign management."
+        },
+        "seo": {
+          "title": "SEO",
+          "description": "Search engine optimization to rank on Google. Content marketing to boost sales."
+        },
+        "social": {
+          "title": "Social Media",
+          "description": "Setup and manage Facebook, Instagram, TikTok, YouTube, LINE OA."
+        }
+      }
+    },
+    "portfolio": {
+      "badge": "Our Work",
+      "title": "Clients Who Trust Us",
+      "subtitle": "Sample projects we're proud to present",
+      "visit": "Visit Website",
+      "viewAll": "View All Portfolio",
+      "items": {
+        "kinzar": {
+          "title": "Kinzar",
+          "description": "Gaming database, reviews, news with API integration"
+        },
+        "birdblocked": {
+          "title": "Bird Blocked",
+          "description": "E-commerce for bird netting, B2B and DIY"
+        },
+        "artandgungame": {
+          "title": "Art & Gun Game",
+          "description": "E-commerce for gaming gear with newsletter system"
+        },
+        "dcbigsize": {
+          "title": "DC Bigsize",
+          "description": "Plus-size clothing store with 1,300+ products"
+        },
+        "t62residence": {
+          "title": "T62 Residence",
+          "description": "Hotel and accommodation website with Local SEO"
+        },
+        "iplusstudio": {
+          "title": "iPlus Studio",
+          "description": "IT and electronics E-commerce store"
+        }
+      }
+    },
+    "whyUs": {
+      "badge": "Why Choose Us",
+      "title": "TUM-WEB Advantages",
+      "subtitle": "Reasons why clients choose our services",
+      "items": {
+        "quality": {
+          "title": "Quality Work",
+          "description": "All work is quality-checked using modern technology"
+        },
+        "fast": {
+          "title": "Fast Delivery",
+          "description": "On-time delivery, no long waits"
+        },
+        "support": {
+          "title": "After-Sales Support",
+          "description": "Continuous support, contact us anytime"
+        },
+        "expert": {
+          "title": "Expert Team",
+          "description": "Professional team with real experience"
+        },
+        "ontime": {
+          "title": "On Time",
+          "description": "Deliver on schedule, no delays"
+        },
+        "team": {
+          "title": "Team Collaboration",
+          "description": "Well-coordinated team, complete delivery"
+        }
+      }
+    },
+    "process": {
+      "badge": "Our Process",
+      "title": "How We Work",
+      "subtitle": "Transparent process, trackable at every step",
+      "steps": {
+        "consult": {
+          "title": "Consult",
+          "description": "Discuss to understand requirements, plan together"
+        },
+        "plan": {
+          "title": "Plan",
+          "description": "Design structure, define scope, send quotation"
+        },
+        "develop": {
+          "title": "Develop",
+          "description": "Start development, report progress regularly"
+        },
+        "launch": {
+          "title": "Launch",
+          "description": "Test system, train users, deliver project"
+        }
+      }
+    },
+    "testimonials": {
+      "badge": "Client Reviews",
+      "title": "What Clients Say",
+      "subtitle": "Testimonials from satisfied clients",
+      "items": {
+        "1": {
+          "quote": "Great work, exactly what I wanted. Team communicates well and responds quickly.",
+          "name": "Mr. Somchai",
+          "role": "E-commerce Business Owner"
+        },
+        "2": {
+          "quote": "Very impressed. Beautiful website, fast loading, good SEO. Easy for customers to find.",
+          "name": "Ms. Somying",
+          "role": "Restaurant Owner"
+        },
+        "3": {
+          "quote": "Backend system is easy to use. Reduced a lot of work. Very worth it.",
+          "name": "Mr. Wichai",
+          "role": "Sales Manager"
+        }
+      }
+    },
+    "faq": {
+      "badge": "FAQ",
+      "title": "Have Questions? We Have Answers",
+      "subtitle": "Frequently asked questions from clients",
+      "items": {
+        "pricing": {
+          "question": "What's the starting price for a website?",
+          "answer": "Prices depend on scope and complexity. Starting from 4,999 THB for Landing Pages up to 100,000+ THB for large Web Applications. Free consultation for price estimates."
+        },
+        "timeline": {
+          "question": "How long does it take?",
+          "answer": "Landing Page 3-5 days, Business website 1-2 weeks, E-commerce 2-4 weeks, Web Application 4-8 weeks depending on complexity."
+        },
+        "support": {
+          "question": "Is there after-sales support?",
+          "answer": "Yes, we provide after-sales service including updates, bug fixes, and technical support. Contact us anytime."
+        },
+        "payment": {
+          "question": "How do I pay?",
+          "answer": "50% before starting work, 50% upon delivery. Payment via bank transfer or PromptPay."
+        },
+        "revision": {
+          "question": "How many revisions are included?",
+          "answer": "3 rounds of revisions within agreed scope. Additional costs apply for out-of-scope changes."
+        },
+        "hosting": {
+          "question": "Is hosting included?",
+          "answer": "Depends on package. Some include free hosting for 1 year, or you can use your own hosting."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Free consultation, no obligations. Tell us your needs, we'll handle everything.",
+      "primary": "Free Consult via LINE",
+      "secondary": "Fill Out Form",
+      "trust": {
+        "free": "Free Consultation",
+        "fast": "24h Response",
+        "support": "Ongoing Support"
+      }
+    }
+  },
+  "footer": {
+    "description": "Full-service digital agency for websites, applications, and AI solutions. We take care of your business from start to success.",
+    "services": {
+      "title": "Services",
+      "website": "Website",
+      "webapp": "Web Application",
+      "app": "Mobile App",
+      "ai": "AI Solutions",
+      "ads": "Advertising",
+      "seo": "SEO"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "portfolio": "Portfolio",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "contact": {
+      "title": "Contact",
+      "location": "Bangkok, Thailand"
+    },
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "chat": {
+    "title": "TUM-WEB Bot",
+    "subtitle": "AI Assistant",
+    "welcome": "Hello! How can I help you?",
+    "placeholder": "Type a message...",
+    "demo": {
+      "response": "Thank you for reaching out! This is a demo of our AI Chatbot that we can develop for your business. If interested, please contact our team via LINE @tumweb."
+    }
+  },
+  "portfolio": {
+    "meta": {
+      "title": "Portfolio - Our Work | TUM-WEB",
+      "description": "View portfolio of our completed projects including websites, web apps, mobile apps and AI solutions.",
+      "keywords": "portfolio, web development, projects, case studies"
+    },
+    "hero": {
+      "badge": "Our Portfolio",
+      "title": {
+        "line1": "Projects",
+        "line2": "We're Proud Of"
+      },
+      "subtitle": "Sample work from our team showcasing quality and expertise in digital development"
+    },
+    "viewProject": "Visit Website",
+    "viewAll": "View All Projects",
+    "categories": {
+      "all": "All",
+      "website": "Website",
+      "webapp": "Web App",
+      "app": "Mobile App",
+      "ai": "AI"
+    },
+    "cta": {
+      "title": "Have a Project in Mind?",
+      "subtitle": "Let us help bring your vision to life. Free consultation, no obligations.",
+      "button": "Start Your Project"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About Us | TUM-WEB",
+      "description": "Learn about TUM-WEB, our story, mission, and the team behind your digital solutions.",
+      "keywords": "about tum-web, web development agency, our team, company story"
+    },
+    "hero": {
+      "badge": "About Us",
+      "title": {
+        "line1": "The Team",
+        "line2": "Behind TUM-WEB"
+      },
+      "subtitle": "We are passionate about creating digital solutions that help businesses grow and succeed online"
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "TUM-WEB started from a passion for technology and helping businesses succeed in the digital world. With over 5 years of experience, we have helped numerous clients transform their ideas into reality through beautiful, functional websites and applications. We believe in quality work, transparent communication, and long-term partnerships with our clients."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To provide high-quality digital solutions that help businesses of all sizes succeed online. We strive to make professional web development accessible and affordable while maintaining the highest standards of quality."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the trusted digital partner for businesses in Thailand, known for delivering innovative solutions, exceptional service, and lasting results that drive real business growth."
+    },
+    "stats": {
+      "title": "Our Achievements",
+      "subtitle": "Numbers that reflect our dedication and success",
+      "items": {
+        "projects": "Projects Completed",
+        "experience": "Years Experience",
+        "satisfaction": "Client Satisfaction",
+        "support": "Support Available"
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "The people behind your successful projects",
+      "founder": {
+        "name": "TUM-WEB Team",
+        "role": "Founder & Lead Developer",
+        "bio": "A team of passionate developers and designers dedicated to creating exceptional digital experiences for our clients."
+      }
+    },
+    "cta": {
+      "title": "Ready to Work Together?",
+      "subtitle": "Let's discuss your project and see how we can help",
+      "button": "Contact Us via LINE"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact Us | TUM-WEB",
+      "description": "Get in touch with TUM-WEB. Free consultation for website, app, and AI solutions.",
+      "keywords": "contact, consultation, quote, web development inquiry"
+    },
+    "hero": {
+      "badge": "Contact Us",
+      "title": {
+        "line1": "Let's Talk",
+        "line2": "About Your Project"
+      },
+      "subtitle": "We're here to help. Reach out through any channel that works best for you."
+    },
+    "info": {
+      "line": {
+        "title": "LINE",
+        "value": "@tumweb"
+      },
+      "email": {
+        "title": "Email",
+        "value": "contact@tum-web.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "081-234-5678"
+      },
+      "facebook": {
+        "title": "Facebook",
+        "value": "TUM-WEB"
+      }
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday - Friday",
+      "weekend": "Saturday - Sunday",
+      "note": "* Online support available outside business hours"
+    },
+    "location": {
+      "title": "Location",
+      "address": "Bangkok, Thailand",
+      "note": "* Remote work available, no need to travel"
+    },
+    "cta": {
+      "title": "The Fastest Way to Reach Us",
+      "subtitle": "Add us on LINE for quick responses and free consultation",
+      "button": "Chat via LINE"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Our Services | TUM-WEB",
+      "description": "Full-service website development, web applications, mobile apps, AI chatbots, advertising, SEO and social media management.",
+      "keywords": "website development, web application, mobile app, AI chatbot, advertising, SEO, social media"
+    },
+    "title": "Our Services",
+    "subtitle": "Full-service digital solutions from website development to online marketing",
+    "badge": "Full-Service Solutions",
+    "hero": {
+      "title": {
+        "line1": "Our Services",
+        "line2": "Full-Service"
+      },
+      "subtitle": "Full-service digital solutions from website development to online marketing"
+    },
+    "learnMore": "Learn More",
+    "viewAll": "View All Services",
+    "items": {
+      "website": {
+        "title": "Website Development",
+        "description": "Business websites, E-commerce, Landing Pages. Beautiful design, mobile-friendly, SEO ready.",
+        "features": {
+          "1": "Modern design",
+          "2": "Responsive on all devices",
+          "3": "SEO Ready"
+        }
+      },
+      "webapp": {
+        "title": "Web Application",
+        "description": "Admin dashboards, CRM, ERP, order management, booking systems.",
+        "features": {
+          "1": "Database system",
+          "2": "Login/Auth system",
+          "3": "Dashboard reports"
+        }
+      },
+      "app": {
+        "title": "Mobile App",
+        "description": "iOS/Android apps, LINE LIFF apps, PWA. User-friendly with modern design.",
+        "features": {
+          "1": "iOS and Android",
+          "2": "Cross-platform",
+          "3": "Push Notification"
+        }
+      },
+      "ai": {
+        "title": "AI Solutions",
+        "description": "AI Chatbot for 24/7 customer service. AI Writer for automated content creation.",
+        "features": {
+          "1": "AI Chatbot",
+          "2": "AI Writer",
+          "3": "24/7 operation"
+        }
+      },
+      "ads": {
+        "title": "Advertising",
+        "description": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads. Full campaign management.",
+        "features": {
+          "1": "Facebook & Instagram Ads",
+          "2": "Google Ads",
+          "3": "TikTok Ads"
+        }
+      },
+      "seo": {
+        "title": "SEO",
+        "description": "Search engine optimization to rank on Google. Content marketing to boost sales.",
+        "features": {
+          "1": "Keyword Research",
+          "2": "On-page SEO",
+          "3": "Content Marketing"
+        }
+      },
+      "social": {
+        "title": "Social Media",
+        "description": "Setup and manage Facebook, Instagram, TikTok, YouTube, LINE OA.",
+        "features": {
+          "1": "Content creation",
+          "2": "Social management",
+          "3": "Post scheduling"
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Free consultation, no obligations. Tell us your needs, we'll handle everything.",
+      "primary": "Free Consult via LINE",
+      "secondary": "Fill Out Form"
+    },
+    "related": {
+      "title": "Related Services"
+    },
+    "website": {
+      "meta": {
+        "title": "Website Development | TUM-WEB",
+        "description": "Professional website development for business, E-commerce, Landing Page. Beautiful design, mobile-friendly, SEO ready. Starting at 4,999 THB.",
+        "keywords": "website development, business website, e-commerce, landing page"
+      },
+      "title": "Website Development",
+      "description": "Professional website development for business, E-commerce, Landing Page. Beautiful design, mobile-friendly, SEO ready.",
+      "badge": "Website Services",
+      "hero": {
+        "title": "Professional Website Development",
+        "subtitle": "Business websites, E-commerce, Landing Pages. Beautiful design, mobile-friendly, fast loading, SEO ready."
+      },
+      "features": {
+        "title": "Why Choose Our Service",
+        "subtitle": "Full-service from design to delivery",
+        "items": {
+          "design": { "title": "Modern Design", "desc": "Beautiful, modern design that matches your brand" },
+          "responsive": { "title": "Responsive", "desc": "Perfect display on mobile, tablet, and desktop" },
+          "fast": { "title": "Fast Loading", "desc": "Fast loading websites reduce bounce rate, increase sales" },
+          "seo": { "title": "SEO Ready", "desc": "SEO-friendly structure for Google ranking" },
+          "ssl": { "title": "SSL Certificate", "desc": "Secure website with full HTTPS" },
+          "cms": { "title": "CMS", "desc": "Easy content management, no coding required" }
+        }
+      },
+      "process": {
+        "title": "Our Process",
+        "subtitle": "Transparent process, trackable at every step",
+        "steps": {
+          "consult": { "title": "Consult", "desc": "Discuss to understand requirements, plan together" },
+          "design": { "title": "Design", "desc": "Create wireframe and design for review" },
+          "develop": { "title": "Develop", "desc": "Code and develop, report progress regularly" },
+          "launch": { "title": "Launch", "desc": "Test system, train users, deliver project" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing Packages",
+        "subtitle": "Choose the package that fits your business",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "4,999฿",
+            "features": { "1": "1 Landing Page", "2": "Template design", "3": "Responsive Design", "4": "SSL Certificate", "5": "Delivery 3-5 days" }
+          },
+          "business": {
+            "name": "Business",
+            "price": "14,999฿",
+            "features": { "1": "5-10 pages website", "2": "Custom Design", "3": "Responsive Design", "4": "Basic SEO", "5": "CMS system", "6": "Free support 3 months" }
+          },
+          "ecommerce": {
+            "name": "E-commerce",
+            "price": "29,999฿",
+            "features": { "1": "Full online store", "2": "Shopping cart", "3": "Payment system", "4": "Inventory management", "5": "Sales reports", "6": "Shipping integration", "7": "Free support 6 months" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "How long does it take?", "answer": "Landing Page 3-5 days, Business website 1-2 weeks, E-commerce 2-4 weeks." },
+          "2": { "question": "Can I edit content myself?", "answer": "Yes, we provide easy-to-use CMS for content updates." },
+          "3": { "question": "Is hosting included?", "answer": "Depends on package. Some include 1 year free hosting." }
+        }
+      }
+    },
+    "webapp": {
+      "meta": {
+        "title": "Web Application Development | TUM-WEB",
+        "description": "Custom web application development. Admin dashboards, CRM, ERP, booking systems.",
+        "keywords": "web application, dashboard, CRM, ERP, booking system"
+      },
+      "title": "Web Application",
+      "description": "Custom web application development for your business needs.",
+      "badge": "Web App Services",
+      "hero": {
+        "title": "Custom Web Applications",
+        "subtitle": "Admin dashboards, CRM, ERP, order management, booking systems."
+      },
+      "features": {
+        "title": "Features",
+        "subtitle": "Powerful features for your business",
+        "items": {
+          "dashboard": { "title": "Dashboard", "desc": "Real-time analytics and reports" },
+          "database": { "title": "Database", "desc": "Secure and scalable database" },
+          "auth": { "title": "Authentication", "desc": "Secure login and user management" },
+          "api": { "title": "API Integration", "desc": "Connect with third-party services" },
+          "responsive": { "title": "Responsive", "desc": "Works on all devices" },
+          "security": { "title": "Security", "desc": "Enterprise-grade security" }
+        }
+      },
+      "process": {
+        "title": "Development Process",
+        "subtitle": "Step-by-step development",
+        "steps": {
+          "consult": { "title": "Consult", "desc": "Understand requirements and scope" },
+          "design": { "title": "Design", "desc": "UX/UI design and prototyping" },
+          "develop": { "title": "Develop", "desc": "Agile development with sprints" },
+          "launch": { "title": "Launch", "desc": "Testing and deployment" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Custom pricing based on requirements",
+        "tiers": {
+          "basic": {
+            "name": "Basic",
+            "price": "29,999฿",
+            "features": { "1": "Simple CRUD app", "2": "User authentication", "3": "Basic dashboard", "4": "1 month support" }
+          },
+          "standard": {
+            "name": "Standard",
+            "price": "59,999฿",
+            "features": { "1": "Full-featured app", "2": "Advanced dashboard", "3": "API integration", "4": "3 months support" }
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "price": "Contact Us",
+            "features": { "1": "Custom development", "2": "Unlimited features", "3": "Priority support", "4": "SLA guarantee" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "How long does development take?", "answer": "Typically 4-8 weeks depending on complexity." },
+          "2": { "question": "Do you provide source code?", "answer": "Yes, full source code ownership included." },
+          "3": { "question": "What technologies do you use?", "answer": "React, Next.js, Node.js, and modern stack." }
+        }
+      }
+    },
+    "app": {
+      "meta": {
+        "title": "Mobile App Development | TUM-WEB",
+        "description": "iOS and Android app development. LINE LIFF, PWA, cross-platform apps.",
+        "keywords": "mobile app, iOS, Android, LINE LIFF, PWA"
+      },
+      "title": "Mobile App",
+      "description": "iOS/Android apps, LINE LIFF apps, PWA with modern design.",
+      "badge": "Mobile App Services",
+      "hero": {
+        "title": "Mobile App Development",
+        "subtitle": "iOS/Android apps, LINE LIFF apps, PWA. User-friendly with modern design."
+      },
+      "features": {
+        "title": "Features",
+        "subtitle": "Comprehensive mobile solutions",
+        "items": {
+          "crossplatform": { "title": "Cross-platform", "desc": "One codebase for iOS and Android" },
+          "native": { "title": "Native Feel", "desc": "Smooth native-like experience" },
+          "push": { "title": "Push Notifications", "desc": "Engage users with notifications" },
+          "offline": { "title": "Offline Support", "desc": "Works without internet" },
+          "analytics": { "title": "Analytics", "desc": "Track user behavior" },
+          "updates": { "title": "OTA Updates", "desc": "Update without app store" }
+        }
+      },
+      "process": {
+        "title": "Development Process",
+        "subtitle": "From concept to launch",
+        "steps": {
+          "consult": { "title": "Consult", "desc": "Define app requirements" },
+          "design": { "title": "Design", "desc": "UI/UX design" },
+          "develop": { "title": "Develop", "desc": "Build and test" },
+          "launch": { "title": "Launch", "desc": "App store submission" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Flexible pricing options",
+        "tiers": {
+          "liff": {
+            "name": "LINE LIFF",
+            "price": "19,999฿",
+            "features": { "1": "LINE LIFF app", "2": "LINE Login", "3": "Basic features", "4": "1 month support" }
+          },
+          "pwa": {
+            "name": "PWA",
+            "price": "29,999฿",
+            "features": { "1": "Progressive Web App", "2": "Offline support", "3": "Push notifications", "4": "3 months support" }
+          },
+          "native": {
+            "name": "Native App",
+            "price": "59,999฿",
+            "features": { "1": "iOS & Android", "2": "App store submission", "3": "Full features", "4": "6 months support" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "iOS or Android first?", "answer": "We recommend cross-platform for both." },
+          "2": { "question": "Do you submit to app stores?", "answer": "Yes, we handle submission process." },
+          "3": { "question": "Post-launch support?", "answer": "Yes, maintenance packages available." }
+        }
+      }
+    },
+    "ai": {
+      "meta": {
+        "title": "AI Solutions | TUM-WEB",
+        "description": "AI Chatbot for 24/7 customer service. AI Writer for content creation.",
+        "keywords": "AI chatbot, AI writer, artificial intelligence, automation"
+      },
+      "title": "AI Solutions",
+      "description": "AI Chatbot for 24/7 customer service. AI Writer for automated content.",
+      "badge": "AI Services",
+      "hero": {
+        "title": "AI-Powered Solutions",
+        "subtitle": "AI Chatbot for 24/7 customer service. AI Writer for automated content creation."
+      },
+      "features": {
+        "title": "AI Features",
+        "subtitle": "Intelligent automation for your business",
+        "items": {
+          "chatbot": { "title": "AI Chatbot", "desc": "24/7 customer support automation" },
+          "writer": { "title": "AI Writer", "desc": "Automated content creation" },
+          "24hours": { "title": "24/7 Operation", "desc": "Never miss a customer" },
+          "fast": { "title": "Fast Response", "desc": "Instant replies" },
+          "learn": { "title": "Learning AI", "desc": "Improves over time" },
+          "integration": { "title": "Integration", "desc": "Connect to your systems" }
+        }
+      },
+      "process": {
+        "title": "Implementation Process",
+        "subtitle": "Get AI running for your business",
+        "steps": {
+          "consult": { "title": "Consult", "desc": "Understand your needs" },
+          "train": { "title": "Train", "desc": "Train AI with your data" },
+          "setup": { "title": "Setup", "desc": "Configure and integrate" },
+          "launch": { "title": "Launch", "desc": "Go live and monitor" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "AI solutions for every budget",
+        "tiers": {
+          "chatbot": {
+            "name": "AI Chatbot",
+            "price": "9,999฿/mo",
+            "features": { "1": "24/7 customer support", "2": "LINE/Facebook integration", "3": "Basic training", "4": "Monthly reports", "5": "Email support" }
+          },
+          "writer": {
+            "name": "AI Writer",
+            "price": "14,999฿/mo",
+            "features": { "1": "Content generation", "2": "SEO optimization", "3": "Multiple languages", "4": "Unlimited content", "5": "Priority support" }
+          },
+          "enterprise": {
+            "name": "Enterprise",
+            "price": "Contact Us",
+            "features": { "1": "Custom AI solutions", "2": "Advanced training", "3": "API access", "4": "Dedicated support", "5": "SLA guarantee", "6": "Custom integrations" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "How accurate is the AI?", "answer": "90%+ accuracy with proper training." },
+          "2": { "question": "Can it speak Thai?", "answer": "Yes, fluent in Thai and English." },
+          "3": { "question": "Integration with LINE?", "answer": "Yes, full LINE OA integration." }
+        }
+      }
+    },
+    "ads": {
+      "meta": {
+        "title": "Digital Advertising | TUM-WEB",
+        "description": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads. Full campaign management.",
+        "keywords": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads, advertising"
+      },
+      "title": "Digital Advertising",
+      "description": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads. Full campaign management.",
+      "badge": "Advertising Services",
+      "hero": {
+        "title": "Digital Advertising",
+        "subtitle": "Facebook Ads, Google Ads, TikTok Ads, LINE Ads. Full campaign management."
+      },
+      "features": {
+        "title": "Ad Services",
+        "subtitle": "Multi-platform advertising",
+        "items": {
+          "facebook": { "title": "Facebook Ads", "desc": "Facebook & Instagram advertising" },
+          "google": { "title": "Google Ads", "desc": "Search and display ads" },
+          "tiktok": { "title": "TikTok Ads", "desc": "Reach younger audiences" },
+          "line": { "title": "LINE Ads", "desc": "Thailand's top platform" },
+          "retargeting": { "title": "Retargeting", "desc": "Re-engage visitors" },
+          "analytics": { "title": "Analytics", "desc": "Track performance" }
+        }
+      },
+      "process": {
+        "title": "Our Process",
+        "subtitle": "Data-driven advertising",
+        "steps": {
+          "consult": { "title": "Consult", "desc": "Understand goals and budget" },
+          "strategy": { "title": "Strategy", "desc": "Plan campaign strategy" },
+          "create": { "title": "Create", "desc": "Design ads and copy" },
+          "optimize": { "title": "Optimize", "desc": "Monitor and optimize" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Flexible ad management",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "4,999฿/mo",
+            "features": { "1": "1 platform", "2": "Basic targeting", "3": "Monthly report", "4": "Email support" }
+          },
+          "growth": {
+            "name": "Growth",
+            "price": "9,999฿/mo",
+            "features": { "1": "2 platforms", "2": "Advanced targeting", "3": "A/B testing", "4": "Weekly reports", "5": "Phone support" }
+          },
+          "pro": {
+            "name": "Pro",
+            "price": "19,999฿/mo",
+            "features": { "1": "All platforms", "2": "Custom audiences", "3": "Conversion tracking", "4": "Daily optimization", "5": "Dedicated manager" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "Minimum ad budget?", "answer": "We recommend at least 5,000฿/month." },
+          "2": { "question": "How soon to see results?", "answer": "Usually within 1-2 weeks." },
+          "3": { "question": "Do you create ad content?", "answer": "Yes, design and copy included." }
+        }
+      }
+    },
+    "seo": {
+      "meta": {
+        "title": "SEO Services | TUM-WEB",
+        "description": "Search engine optimization to rank on Google. Content marketing to boost sales.",
+        "keywords": "SEO, search engine optimization, Google ranking, content marketing"
+      },
+      "title": "SEO Services",
+      "description": "Search engine optimization to rank on Google. Content marketing to boost sales.",
+      "badge": "SEO Services",
+      "hero": {
+        "title": "SEO & Content Marketing",
+        "subtitle": "Rank higher on Google. Drive organic traffic. Boost sales."
+      },
+      "features": {
+        "title": "SEO Features",
+        "subtitle": "Comprehensive SEO strategy",
+        "items": {
+          "keyword": { "title": "Keyword Research", "desc": "Find high-value keywords" },
+          "onpage": { "title": "On-page SEO", "desc": "Optimize your website" },
+          "offpage": { "title": "Off-page SEO", "desc": "Build authority" },
+          "content": { "title": "Content Marketing", "desc": "Create valuable content" },
+          "technical": { "title": "Technical SEO", "desc": "Fix technical issues" },
+          "local": { "title": "Local SEO", "desc": "Rank in local searches" }
+        }
+      },
+      "process": {
+        "title": "SEO Process",
+        "subtitle": "Systematic approach to ranking",
+        "steps": {
+          "audit": { "title": "Audit", "desc": "Analyze current state" },
+          "strategy": { "title": "Strategy", "desc": "Plan SEO roadmap" },
+          "implement": { "title": "Implement", "desc": "Execute optimizations" },
+          "monitor": { "title": "Monitor", "desc": "Track and improve" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Long-term SEO investment",
+        "tiers": {
+          "basic": {
+            "name": "Basic",
+            "price": "9,999฿/mo",
+            "features": { "1": "5 keywords", "2": "Monthly audit", "3": "On-page SEO", "4": "Monthly report" }
+          },
+          "standard": {
+            "name": "Standard",
+            "price": "19,999฿/mo",
+            "features": { "1": "15 keywords", "2": "Content creation", "3": "Link building", "4": "Technical SEO", "5": "Bi-weekly report" }
+          },
+          "premium": {
+            "name": "Premium",
+            "price": "39,999฿/mo",
+            "features": { "1": "30+ keywords", "2": "Full content strategy", "3": "Advanced link building", "4": "Competitor analysis", "5": "Weekly report", "6": "Dedicated SEO manager" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "How long for results?", "answer": "SEO takes 3-6 months for results." },
+          "2": { "question": "Guarantee page 1?", "answer": "No guarantees, but proven track record." },
+          "3": { "question": "Do you write content?", "answer": "Yes, SEO content included." }
+        }
+      }
+    },
+    "social": {
+      "meta": {
+        "title": "Social Media Management | TUM-WEB",
+        "description": "Setup and manage Facebook, Instagram, TikTok, YouTube, LINE OA.",
+        "keywords": "social media, Facebook, Instagram, TikTok, YouTube, LINE OA"
+      },
+      "title": "Social Media",
+      "description": "Setup and manage Facebook, Instagram, TikTok, YouTube, LINE OA.",
+      "badge": "Social Media Services",
+      "hero": {
+        "title": "Social Media Management",
+        "subtitle": "Build your brand on Facebook, Instagram, TikTok, YouTube, LINE OA."
+      },
+      "features": {
+        "title": "Services",
+        "subtitle": "Complete social media solution",
+        "items": {
+          "content": { "title": "Content Creation", "desc": "Engaging posts and videos" },
+          "management": { "title": "Page Management", "desc": "Daily management" },
+          "community": { "title": "Community", "desc": "Engage with followers" },
+          "analytics": { "title": "Analytics", "desc": "Track performance" },
+          "strategy": { "title": "Strategy", "desc": "Content planning" },
+          "growth": { "title": "Growth", "desc": "Grow your following" }
+        }
+      },
+      "process": {
+        "title": "Our Process",
+        "subtitle": "Strategic social media management",
+        "steps": {
+          "audit": { "title": "Audit", "desc": "Analyze current presence" },
+          "strategy": { "title": "Strategy", "desc": "Plan content calendar" },
+          "create": { "title": "Create", "desc": "Produce content" },
+          "engage": { "title": "Engage", "desc": "Build community" }
+        }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Social media packages",
+        "tiers": {
+          "starter": {
+            "name": "Starter",
+            "price": "4,999฿/mo",
+            "features": { "1": "1 platform", "2": "12 posts/month", "3": "Basic design", "4": "Monthly report" }
+          },
+          "growth": {
+            "name": "Growth",
+            "price": "9,999฿/mo",
+            "features": { "1": "2 platforms", "2": "20 posts/month", "3": "Custom design", "4": "Community management", "5": "Bi-weekly report" }
+          },
+          "pro": {
+            "name": "Pro",
+            "price": "19,999฿/mo",
+            "features": { "1": "3+ platforms", "2": "30 posts/month", "3": "Video content", "4": "Influencer outreach", "5": "Weekly report", "6": "Dedicated manager" }
+          }
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "items": {
+          "1": { "question": "Which platforms?", "answer": "Facebook, Instagram, TikTok, YouTube, LINE OA." },
+          "2": { "question": "Do you create content?", "answer": "Yes, posts and graphics included." },
+          "3": { "question": "Can you run ads too?", "answer": "Yes, combine with our ad services." }
+        }
+      }
+    }
+  }
+}

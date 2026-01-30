@@ -932,5 +932,28 @@
         }
       }
     }
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog | TUM-WEB",
+      "description": "Articles about website development, digital marketing, SEO, and technology for business",
+      "keywords": "blog, website development, SEO, digital marketing, AI, online business"
+    },
+    "title": "Blog",
+    "subtitle": "Knowledge about websites, digital marketing, and technology",
+    "badge": "Articles & Knowledge",
+    "readMore": "Read More",
+    "readingTime": "min read",
+    "backToBlog": "Back to Blog",
+    "relatedPosts": "Related Posts",
+    "noResults": "No articles found in this category",
+    "categories": {
+      "all": "All",
+      "website": "Website",
+      "seo": "SEO",
+      "marketing": "Marketing",
+      "ai": "AI",
+      "business": "Business"
+    }
   }
 }

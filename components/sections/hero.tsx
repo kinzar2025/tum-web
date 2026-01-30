@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useTranslations, useLocale } from 'next-intl';
 import { motion } from 'framer-motion';
 import { ArrowRight, Sparkles, MessageCircle, Play } from 'lucide-react';
+import RotatingText from '@/src/components/RotatingText';
 
 export function HeroSection() {
   const t = useTranslations('hero');
@@ -27,12 +28,13 @@ export function HeroSection() {
             </span>
           </motion.div>
 
-          {/* Title */}
-          <motion.h1 initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className="mt-8 text-4xl font-bold sm:text-5xl md:text-6xl lg:text-7xl">
-            {t('title')} <span className="gradient-text">{t('titleHighlight')}</span>
-            <br />
-            <span className="text-muted-foreground">{t('subtitle')}</span>
-          </motion.h1>
+          {/* Title with Rotating Text */}
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }} className="mt-8">
+            <RotatingText />
+            <p className="mt-4 text-xl sm:text-2xl md:text-3xl text-muted-foreground font-medium">
+              {t('subtitle')}
+            </p>
+          </motion.div>
 
           {/* Description */}
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }} className="mx-auto mt-6 max-w-2xl text-lg text-muted-foreground">

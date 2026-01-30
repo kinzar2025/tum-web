@@ -21,10 +21,10 @@ export function BlogGrid() {
     <section className="py-16 lg:py-24">
       <div className="container mx-auto px-4">
         {/* Category Filter */}
-        <div className="mb-12 flex flex-wrap justify-center gap-2">
+        <div className="mb-8 sm:mb-12 flex flex-wrap justify-center gap-2">
           <button
             onClick={() => setSelectedCategory('all')}
-            className={`rounded-full px-4 py-2 text-sm font-medium transition-colors ${
+            className={`rounded-full px-3 py-1.5 sm:px-4 sm:py-2 text-xs sm:text-sm font-medium transition-colors ${
               selectedCategory === 'all'
                 ? 'bg-primary text-primary-foreground'
                 : 'bg-secondary text-secondary-foreground hover:bg-secondary/80'
@@ -36,7 +36,7 @@ export function BlogGrid() {
             <button
               key={category}
               onClick={() => setSelectedCategory(category)}
-              className={`rounded-full px-4 py-2 text-sm font-medium transition-colors ${
+              className={`rounded-full px-3 py-1.5 sm:px-4 sm:py-2 text-xs sm:text-sm font-medium transition-colors ${
                 selectedCategory === category
                   ? 'bg-primary text-primary-foreground'
                   : 'bg-secondary text-secondary-foreground hover:bg-secondary/80'
@@ -48,7 +48,7 @@ export function BlogGrid() {
         </div>
 
         {/* Blog Grid */}
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-2 gap-3 sm:gap-6 lg:grid-cols-3">
           {filteredPosts.map((post, index) => (
             <motion.div
               key={post.slug}

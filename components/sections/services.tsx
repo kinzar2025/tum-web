@@ -30,15 +30,15 @@ export function ServicesSection({ limit }: { limit?: number }) {
           <p className="mt-4 text-muted-foreground">{t('subtitle')}</p>
         </motion.div>
 
-        <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-12 grid grid-cols-2 gap-3 sm:gap-6 lg:grid-cols-4">
           {items.map((service, i) => (
             <motion.div key={service.key} initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.1 }}>
-              <Link href={`/${locale}${service.href}`} className="group card-hover flex flex-col h-full">
-                <div className={`mb-4 inline-flex h-12 w-12 items-center justify-center rounded-xl bg-gradient-to-br ${service.color} text-white`}>
-                  <service.icon className="h-6 w-6" />
+              <Link href={`/${locale}${service.href}`} className="group card-hover flex flex-col h-full p-3 sm:p-6">
+                <div className={`mb-2 sm:mb-4 inline-flex h-10 w-10 sm:h-12 sm:w-12 items-center justify-center rounded-lg sm:rounded-xl bg-gradient-to-br ${service.color} text-white`}>
+                  <service.icon className="h-5 w-5 sm:h-6 sm:w-6" aria-hidden="true" />
                 </div>
-                <h3 className="text-lg font-semibold group-hover:text-primary">{tItems(`${service.key}.title`)}</h3>
-                <p className="mt-2 text-sm text-muted-foreground flex-1">{tItems(`${service.key}.description`)}</p>
+                <h3 className="text-sm sm:text-lg font-semibold group-hover:text-primary">{tItems(`${service.key}.title`)}</h3>
+                <p className="mt-1 sm:mt-2 text-xs sm:text-sm text-muted-foreground flex-1 line-clamp-2 sm:line-clamp-none">{tItems(`${service.key}.description`)}</p>
               </Link>
             </motion.div>
           ))}
